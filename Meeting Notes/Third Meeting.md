@@ -2,7 +2,7 @@
 
 Until first of june we should have partial 2 done as well as the first two points of partial 3 which can be found in the **offical-Wiki** of Kccs
 ### To-Do's for next week: 
-* Sufain will try to make subriddet crawler
+* Sufain will try to make subreddit crawler
 * Saad will try to make twitter crawler
 * Mohamad will search for solutions for the issues (proxy, ip bans, storage,..)
 
