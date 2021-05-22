@@ -22,7 +22,6 @@ for subreddit in subredditsList:
         response = response.text
         index = 0
         for child in json.loads(response).get('data').get('children'):
-            print(index)
             finalList[subreddit][str(index)] = json.loads(requests.get(f"{BASEURL}{child.get('data').get('permalink')}/.json", headers=noAuthHeaders).text)
             index = index + 1
     else: 
