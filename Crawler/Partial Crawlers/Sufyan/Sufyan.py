@@ -2,6 +2,7 @@
 import requests
 import json
 import time
+import os
 
 BASEURL='https://www.reddit.com'
 
@@ -30,8 +31,8 @@ for subreddit in subredditsList:
 
 if(not os.path.exists('./CrawledData/')):
     os.mkdir('./CrawledData')
-with open('./CrawledData'+f'{time.strftime("%Y%m%d-%H%M%S")}'+'.json', "w") as fp:
-    json.dump(finalList, fp, indent = 4) 
+with open('./CrawledData/'+f'{time.strftime("%Y%m%d-%H%M%S")}'+'.json', "w") as fp:
+    json.dump(finalList, fp, indent = 4)
 
-print('errors: '+ str(errors)+'in:')
+print('errors: '+ str(errors)+' in:')
 print(errorList)
