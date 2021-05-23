@@ -3,6 +3,7 @@ import requests
 import json
 import time
 import os
+import sys
 
 BASEURL='https://www.reddit.com'
 
@@ -20,9 +21,7 @@ for subreddit in subredditsList:
     finalList[subreddit]={}
     response = requests.get(f"{BASEURL}{subreddit}/.json?&limit=1000&after30d", headers=noAuthHeaders)
     if(response.status_code == 200):
-        # response = response.text
         index = 0
-        # for child in json.loads(response).get('data').get('children'):
         for child in response.json()['data']['children']:
             finalList[subreddit][str(index)] = requests.get(f"{BASEURL}{child.get('data').get('permalink')}/.json", headers=noAuthHeaders).json()
             index = index + 1
@@ -30,10 +29,18 @@ for subreddit in subredditsList:
         errors +=1
         errorList.append(subreddit)
 
+finalList['errors'] = {
+    'faulty subreddits': errorList,
+    'numErrors': errors
+}
 if(not os.path.exists('./CrawledData/')):
     os.mkdir('./CrawledData')
-with open('./CrawledData/'+f'{time.strftime("%Y%m%d-%H%M%S")}'+' raw'+'.json', "w") as fp:
+
+filename = f'{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
+
+with open(f'./CrawledData/{filename}', "w") as fp:
     json.dump(finalList, fp, indent = 4)
 
-print('errors: '+ str(errors)+' in:')
-print(errorList)
+print(f'{filename}')
+sys.exit(0)
+
