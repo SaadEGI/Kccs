@@ -20,10 +20,11 @@ for subreddit in subredditsList:
     finalList[subreddit]={}
     response = requests.get(f"{BASEURL}{subreddit}/.json?&limit=1000&after30d", headers=noAuthHeaders)
     if(response.status_code == 200):
-        response = response.text
+        # response = response.text
         index = 0
-        for child in json.loads(response).get('data').get('children'):
-            finalList[subreddit][str(index)] = json.loads(requests.get(f"{BASEURL}{child.get('data').get('permalink')}/.json", headers=noAuthHeaders).text)
+        # for child in json.loads(response).get('data').get('children'):
+        for child in response.json()['data']['children']:
+            finalList[subreddit][str(index)] = requests.get(f"{BASEURL}{child.get('data').get('permalink')}/.json", headers=noAuthHeaders).json()
             index = index + 1
     else: 
         errors +=1
@@ -31,7 +32,7 @@ for subreddit in subredditsList:
 
 if(not os.path.exists('./CrawledData/')):
     os.mkdir('./CrawledData')
-with open('./CrawledData/'+f'{time.strftime("%Y%m%d-%H%M%S")}'+'.json', "w") as fp:
+with open('./CrawledData/'+f'{time.strftime("%Y%m%d-%H%M%S")}'+' raw'+'.json', "w") as fp:
     json.dump(finalList, fp, indent = 4)
 
 print('errors: '+ str(errors)+' in:')
