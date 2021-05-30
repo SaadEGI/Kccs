@@ -1,7 +1,7 @@
 Sitzung               | xx.yy.2020
 ----------------------|-
 Protokollführer       | <!-- Person -->
-Teilnehmer            | Zainab Albasha, Muhammad Albasha, Basel Sabha, Saad Bendou, Sufyan Dahalan, Tobias Geißler, Dennis Funke
+Teilnehmer            |
 Fehlende Mitglieder   | <!-- Person/en -->
 Beginn                | xx:xx Uhr
 Ende                  | xx:xx Uhr
