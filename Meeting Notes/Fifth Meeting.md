@@ -1,4 +1,4 @@
-Sitzung               | xx.yy.2020
+[Recording of the Meeting](https://cloud.dahalan.de/index.php/s/c2mR5XsFPwjTc3e)               | 30.05.2021
 ----------------------|-
 Present members       | Sufyan, Mohamed, Saad
 Absent members        | -
