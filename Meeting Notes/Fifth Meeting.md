@@ -16,7 +16,7 @@ Agenda
 Agreed upon Tasks
 ---
 - Sufyan will change query parametres in news fetch
-- Sufyan will hnage saads code to fit newsfetch
+- Sufyan will change saads code to fit newsfetch
 - Saad will extract the list of local newspaper websites
 - Sufyan, Mortada or Saad will create a twitter account for the API.
 - Saad will contact Terry for a meeting next week to dicuss the milestone presentation, give update of the progress of project and ask for solutions of our problems.
