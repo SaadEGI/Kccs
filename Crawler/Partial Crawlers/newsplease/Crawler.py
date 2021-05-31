@@ -1,3 +1,8 @@
+# from github_com.kennethreitz import requests
+# import newsfetch 
+# assert requests.get('https://github.com/SufyanDahalan/news-fetch/blob/master/newsfetch/google.py').status_code == 200
+
+
 from newsfetch.google import google_search
 from newsfetch.news import newspaper
 import os
@@ -12,8 +17,7 @@ with open('WebsiteLists') as f:
         websiteList = [line.strip() for line in f]
 
 for website in websiteList:
-    query = google_search('woman',website)
-    print(query.urls)
+    query = google_search('women', website, query_params='w', num_pages=2)
     for url in query.urls:
         article = newspaper(url)
         data[index] = {
@@ -36,3 +40,5 @@ with open(f'./CrawledData/{filename}', "w") as fp:
 
 
 # https://www.google.com/search?q={{seach query}}&tbs=qdr:m
+
+# https://stackoverflow.com/questions/19943022/import-a-python-library-from-github
