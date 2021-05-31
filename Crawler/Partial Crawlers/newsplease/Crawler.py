@@ -5,11 +5,11 @@ import time
 import json
 
 index = 0
-websiteList = []
+#websiteList = []
 data = {}
 
 with open('WebsiteLists') as f:
-        websiteList = [line.strip() for line in f]
+        websiteList = f.read().splitlines()
 
 for website in websiteList:
     query = google_search('woman',website)
