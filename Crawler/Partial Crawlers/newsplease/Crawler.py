@@ -1,8 +1,3 @@
-# from github_com.kennethreitz import requests
-# import newsfetch 
-# assert requests.get('https://github.com/SufyanDahalan/news-fetch/blob/master/newsfetch/google.py').status_code == 200
-
-
 from newsfetch.google import google_search
 from newsfetch.news import newspaper
 import os
@@ -40,5 +35,8 @@ with open(f'./CrawledData/{filename}', "w") as fp:
 
 
 # https://www.google.com/search?q={{seach query}}&tbs=qdr:m
+<<<<<<< HEAD
 
 # https://stackoverflow.com/questions/19943022/import-a-python-library-from-github
+=======
+>>>>>>> f3a735979ea13eb3155b837dbf3b8d5ed0e6b532
