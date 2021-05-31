@@ -32,11 +32,3 @@ filename = f'{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
 
 with open(f'./CrawledData/{filename}', "w") as fp:
     json.dump(data, fp, indent = 4)
-
-
-# https://www.google.com/search?q={{seach query}}&tbs=qdr:m
-<<<<<<< HEAD
-
-# https://stackoverflow.com/questions/19943022/import-a-python-library-from-github
-=======
->>>>>>> f3a735979ea13eb3155b837dbf3b8d5ed0e6b532
