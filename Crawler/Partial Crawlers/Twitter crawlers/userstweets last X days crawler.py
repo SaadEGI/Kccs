@@ -3,6 +3,7 @@ import tweepy
 import datetime, time
 import json
 
+##Private, please do not share these codes with anyone, thanks
 authentication = tweepy.OAuthHandler('9Fmf0uyQ4kAlgfqLTRCgmvAXS', 'ASKvsmRRf4sVfv06y12H2VMKT4m3iarQUDuRnbcSRIDiVIg5Ha')
 authentication.set_access_token('2993256339-ptMVZ0jCyGZWJfE9u7hnulkG1s0OlmbT1wMJ06l',
                                 'x5p9NYlH6B7QNXWiB2OB4DyqmqW3gQePrjUWoIzxIet4q')
