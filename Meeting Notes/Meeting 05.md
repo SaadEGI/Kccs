@@ -1,4 +1,4 @@
-[Recording of the Meeting](https://cloud.dahalan.de/index.php/s/c2mR5XsFPwjTc3e)               | 30.05.2021
+[Meeting 5](https://cloud.dahalan.de/index.php/s/c2mR5XsFPwjTc3e)               | 30.05.2021
 ----------------------|-
 Present members       | Sufyan, Mohamed, Saad
 Absent members        | -
@@ -26,6 +26,7 @@ Agreed upon Tasks
     - Sa- ask for solutions of our problems(storage / using of university network and materials / twitter api application as a university researcher)
     - Sa- ask if we should push the crawlers to this repo  ag-gipp /kccs_detectingoutbreaks .
     - Su- ask about resources, expectations for partial 2, quick verbal howto. (keywords: NLP, sentiment analysis)
+
 ---
   
 Meeting ended on 30.05.2021 at 13:00. Next meeting will be on the 06.06.2021 at 17:00 via Zoom. 
