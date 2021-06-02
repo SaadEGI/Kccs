@@ -22,10 +22,10 @@ Agreed upon Tasks
 - Sufyan, Mortada or Saad will create a twitter account for the API.
 - Saad will contact Terry for a meeting next week:
     - Sa- to dicuss the milestone presentation
-    - Sa- give update of the progress of project 
+    - Sa- give update of the progress of project
     - Sa- ask for solutions of our problems(storage / using of university network and materials / twitter api application as a university researcher)
     - Sa- ask if we should push the crawlers to this repo  ag-gipp /kccs_detectingoutbreaks .
-
+    - Su- ask about resources, expectations for partial 2, quick verbal howto. (keywords: NLP, sentiment analysis)
 ---
   
 Meeting ended on 30.05.2021 at 13:00. Next meeting will be on the 06.06.2021 at 17:00 via Zoom. 
