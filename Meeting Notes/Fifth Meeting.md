@@ -21,10 +21,10 @@ Agreed upon Tasks
 - Saad will extract the list of local newspaper websites.
 - Sufyan, Mortada or Saad will create a twitter account for the API.
 - Saad will contact Terry for a meeting next week:
-    - to dicuss the milestone presentation
-    - give update of the progress of project 
-    - ask for solutions of our problems(storage / using of university network and materials / twitter api application as a university researcher)
-    - ask if we should push the crawlers to this repo  ag-gipp /kccs_detectingoutbreaks .
+    - Sa- to dicuss the milestone presentation
+    - Sa- give update of the progress of project 
+    - Sa- ask for solutions of our problems(storage / using of university network and materials / twitter api application as a university researcher)
+    - Sa- ask if we should push the crawlers to this repo  ag-gipp /kccs_detectingoutbreaks .
 
 ---
   
