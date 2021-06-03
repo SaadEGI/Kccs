@@ -17,6 +17,8 @@ Agenda
     2. Makefile for pipeline automation
         - Data should be stored under one folder (suggestion: Crawlers/CrawledData/(timestamp)/). Accommodation of this in code is necessary
     3. Crawling for a first version of data
+    4. use of toy data
+    5. present the google IP ban gathered info
 - Partial 02: Analysis
     1. Keywords to look for
     2. repeating features across data
