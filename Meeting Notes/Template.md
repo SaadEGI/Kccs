@@ -1,13 +1,24 @@
-[Meeting X](Enter meeting video url here)           | 01.05.2021
+[Meeting X](Enter meeting video url here)           | dd.mm.yyyy
 ----------------------|-
 Protocol organizer    | Sufyan Dahalan
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
 Absent members        | -
-Begin                 | 17:00
-End                   | 18:14
+Begin                 | hh:mm
+End                   | hh:mm
+
+
+Agenda 
+---
+<!-- What do we plan to discuss -->
+
+- Issue 1
+    1. Subpoint 1  
+    2. Subpoint 2
 
 Opened Issues
 ---
+<!-- What else (if not noted in the Agenda section) did we discuss -->
+
 - Issue 1
     1. Subpoint 1  
     2. Subpoint 2
