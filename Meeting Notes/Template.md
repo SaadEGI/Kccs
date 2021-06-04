@@ -1,6 +1,6 @@
 [Meeting X](Enter meeting video url here)           | dd.mm.yyyy
 ----------------------|-
-Protocol organizer    | Sufyan Dahalan
+Protocol organizer    | -
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
 Absent members        | -
 Begin                 | hh:mm

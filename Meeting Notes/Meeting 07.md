@@ -1,4 +1,4 @@
-[Meeting X](Enter meeting video url here)           | 05.06.2021
+[Meeting 7](Enter meeting video url here)           | 05.06.2021
 ----------------------|-
 Protocol organizer    | Sufyan Dahalan
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
@@ -11,9 +11,9 @@ Agenda
 ---
 <!-- What do we plan to discuss -->
 
-- Issue 1
-    1. Subpoint 1  
-    2. Subpoint 2
+- Crawlers phase
+
+- Analysis phase
 
 Opened Issues
 ---
