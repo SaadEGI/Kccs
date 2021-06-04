@@ -1,10 +1,10 @@
-[Meeting 6](Enter meeting video url here)           | 03.06.2021
+[Meeting 6](https://cloud.dahalan.de/index.php/s/oocBJMDZtiApTZC)           | 03.06.2021
 ----------------------|-
-Protocol organizer    | Sufyan Dahalan
+Protocol organizer    | Mohamad Almortada
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
 Absent members        | -
 Begin                 | 17:00
-End                   | 18:14
+End                   | 18:40
 
 
 
@@ -26,18 +26,19 @@ Agenda
     4. Sentiment analysis (is fear an interesting category?)
     5. Visualizing data to help w/ above points
 
-Opened Issues
----
+## Opened Issues
+
 <!-- What else (if not noted in the Agenda section) did we discuss -->
 
-- Issue 1
-    1. Subpoint 1  
-    2. Subpoint 2
+     Answer the last 4 Questions from **Partial 2** like **What time length to use it?**
 
+## Agreed upon Tasks
 
-Agreed upon Tasks
+- Sufyan will finish the **makefile** to automize running the crawlers simultaneously
+- Sufyan will modify his crawlers to save the crawled data in desired directory.
+- Saad will finish the **twitter-crawler**
+- Everyone will do the tasks in the file etc/Partial02_Ana
+
 ---
-- Person A will do task (describe task here and create a github issue for it)
 
----
-Meeting ended on dd.mm.yyyy at hh:mm. Next meeting will be on the dd.mm.yyyy at hh:mm via Zoom.
+Meeting ended on 03.06.2021 at 18:40. Next meeting will be on the 05.05.2021 at 17:00 via Zoom.
