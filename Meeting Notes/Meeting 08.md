@@ -12,9 +12,7 @@ Agenda
 ---
 <!-- What do we plan to discuss -->
 
-- Crawlers phase
-
-- Analysis phase
+- Milestone presentation discussion
 
 Opened Issues
 ---
