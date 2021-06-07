@@ -7,12 +7,13 @@ import sys
 
 BASEURL='https://www.reddit.com'
 
-
 finalList = {}
 errorList = []
 errors = 0
+file_path = sys.argv[1]
 
-with open('SubredditList') as f:
+
+with open('Reddit/SubredditList') as f:
     subredditsList = [line.strip() for line in f]
 
 noAuthHeaders = {"User-Agent": "ViralOutbreakDetector/0.1 (by /u/KCCS_throwaway)"}
@@ -33,14 +34,11 @@ finalList['errors'] = {
     'faulty subreddits': errorList,
     'numErrors': errors
 }
-if(not os.path.exists('./CrawledData/')):
-    os.mkdir('./CrawledData')
 
-filename = f'{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
+filename = r'Reddit_raw.json'
 
-with open(f'./CrawledData/{filename}', "w") as fp:
+with open(rf'{file_path+"/"+filename}', "w") as fp:
     json.dump(finalList, fp, indent = 4)
 
-print(f'{filename}')
 sys.exit(0)
 

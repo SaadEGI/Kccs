@@ -3,12 +3,15 @@ from newsfetch.news import newspaper
 import os
 import time
 import json
+import sys
+
 
 index = 0
 websiteList = []
 data = {}
+file_path = sys.argv[1]
 
-with open('WebsiteLists') as f:
+with open('Newspapers/WebsiteLists') as f:
         websiteList = [line.strip() for line in f]
 
 for website in websiteList:
@@ -24,11 +27,7 @@ for website in websiteList:
         }
         index = index + 1
 
-
-if(not os.path.exists('./CrawledData/')):
-    os.mkdir('./CrawledData')
-
 filename = f'{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
 
-with open(f'./CrawledData/{filename}', "w") as fp:
+with open(rf'{file_path+"/Newspapers_raw.json"}', "w") as fp:
     json.dump(data, fp, indent = 4)
