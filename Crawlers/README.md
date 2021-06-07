@@ -1,11 +1,11 @@
-# This <code>README.md</code> file should contain Documentation
-
-## Running the crawler and cleaning the data
+# Running the crawlers and cleaning the data
 
 Simply run ``` make run``` in your cli and all the crawlers (Reddit, Newspapers) will be run. At the end you should a file from each crawler.
 In case you go for this option, data crawled from all sources will be found in the same directory.
 Optionaly, you cant specify which crawler you want to run. Currently you have the option to run ```make reddit``` or ```make newspapers``` to run its respective crawler.
 Finally, ```make clean``` deletes any and all crawled data. 
+
+
 ---
 
 
