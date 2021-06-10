@@ -26,6 +26,10 @@ Agreed upon Tasks
 ---
 - Saad and Sufyan are going to work on **Stemming and Lemmatization** through sample of data (toy data).
 - Mohamad is going to go through the steps making the preprocessing of data **normalization**. 
+- For the [milestone presentation](https://cryptpad.uni-wuppertal.de/pad/#/2/pad/edit/eSGmfKrOma7ARxDfCl5aebX5/) for now :
+    -  Sufyan will do the crawler part
+    -   Saad will do the part of data collection and organization?
+    -   Mohamad will do the motivation part
 
 ---
 Meeting ended on dd.mm.yyyy at hh:mm. Next meeting will be on the 14.06.3031 at 20:30? via Zoom.
