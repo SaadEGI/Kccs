@@ -4,7 +4,7 @@ import os
 import time
 import json
 import sys
-
+# TODO: change the program so that it takes keywords from a file, and in case its empty look for no keywords in specific
 
 index = 0
 websiteList = []

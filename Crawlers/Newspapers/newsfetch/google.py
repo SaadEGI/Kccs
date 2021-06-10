@@ -6,7 +6,6 @@ from newsfetch.utils import (BeautifulSoup, Options, UserAgent,
                              chromedriver_binary, get, re, sys, time,
                              webdriver)
 
-
 class google_search:
 
     def __init__(self, keyword, newspaper_url, query_params=None, num_pages = 1):
@@ -95,6 +94,7 @@ class google_search:
             url_list = [url for url in url_list if '.pdf' not in url]
             self.urls = [url for url in url_list if '.xml' not in url]
 
+# TODO: dont raise an error and stop the program, instead just return 0
         except:
             raise ValueError(
                 'Your search - %s - did not match any documents.' % str(self.search_term))
