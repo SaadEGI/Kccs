@@ -88,13 +88,11 @@ class google_search:
 
                 driver.quit()
             else:
-                raise ValueError(
+                print(
                     'Your search - %s - did not match any documents.' % str(self.search_term))
             url_list = list(dict.fromkeys(url_list))
             url_list = [url for url in url_list if '.pdf' not in url]
             self.urls = [url for url in url_list if '.xml' not in url]
 
-# TODO: dont raise an error and stop the program, instead just return 0
-        except:
-            raise ValueError(
-                'Your search - %s - did not match any documents.' % str(self.search_term))
+        except Exception as err:
+            self = False
