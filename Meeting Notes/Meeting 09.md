@@ -1,5 +1,5 @@
 
-[Meeting 7](Enter meeting video url here)           | 10.06.2021
+[Meeting 7](https://cloud.dahalan.de/index.php/s/Mwy9da2cE3BEQji)           | 10.06.2021
 ----------------------|-
 Protocol organizer    | Mohamad Almortada
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
