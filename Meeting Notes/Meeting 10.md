@@ -39,4 +39,4 @@ Agreed upon Tasks
 
 
 ---
-Meeting ended on 14.07.2021 at 20:1. Next meeting will be on the 19.07.2021 at 17:00 via Zoom.
+Meeting ended on 14.07.2021 at 20:10. Next meeting will be on the 19.07.2021 at 17:00 via Zoom.
