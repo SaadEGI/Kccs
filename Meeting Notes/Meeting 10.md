@@ -1,4 +1,4 @@
-[Meeting 10](Enter meeting video url here)           | 14.07.2021
+[Meeting 10](https://drive.google.com/file/d/1ouUsHqm-q9UmL5Hfa2FZbEOnXruPOntb/view?usp=sharing)           | 14.07.2021
 ----------------------|-
 Protocol organizer    | Sufyan Dahalan
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
