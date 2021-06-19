@@ -1,3 +1,4 @@
+import json
 import string
 import re
 from nltk.corpus import stopwords
@@ -5,6 +6,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import sent_tokenize, word_tokenize
+from newsplease import NewsPlease
 
 
 def stemSentence(sentence):
@@ -26,8 +28,20 @@ def lemmSentence(sentence):
     return "".join(lemma_sentence)
 
 
-input_str = "\t \nThis &is [an] 2 33 example? {of} string. with.? 45 4 punctuation!!!!" # Sample string
+# input_str = "\t \nThis &is [an] 2 33 example? {of} string. with.? 45 4 punctuation!!!!" # Sample string
 
+article = NewsPlease.from_url('https://www.nytimes.com/2021/06/19/world/americas/brazil-drought.html')
+# make a dictonary object from NewsPlease object
+d = article.__dict__
+
+# Convert it to string 
+s = json.dumps(d, indent=4, sort_keys=True, default=str)
+
+input_str = article.maintext
+
+# write it to json file
+with open('new.json', "w") as fp:
+	fp.write(s)
 
 
 # Replace digits with space
@@ -39,15 +53,12 @@ result = re.sub(' +', ' ', result)
 # remove whitespaces (tabs,..)
 result = result.strip()
 
-print(result)
-
-# input_str = "NLTK is a leading platform for building Python programs to work with human language data."
 stop_words = set(stopwords.words('english'))
 
 tokens = word_tokenize(result)
 result = [i for i in tokens if not i in stop_words]
-result =  " ".join(result)
+
 print (result)
+result =  " ".join(result) 
 
 print(stemSentence(result))
-
