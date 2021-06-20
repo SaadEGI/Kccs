@@ -43,8 +43,8 @@ class google_search:
         # if(proxy is not None):
         #     set_proxy(options, proxy)
 
-        options.addArguments("--no-sandbox");
-        options.addArguments("--disable-dev-shm-usage");
+        options.add_argument("--no-sandbox");
+        options.add_argument("--disable-dev-shm-usage");
 
         driver = get_chrome_web_driver(options)
         driver.get(url)
