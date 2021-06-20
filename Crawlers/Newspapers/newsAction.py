@@ -7,17 +7,17 @@ import sys
 
 index = 0
 data = {}
-filename = f'{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
+filename = f'Crawlers/{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
 proxy_list = []
 
 
-with open('Newspapers/ProxyList') as f:
+with open('Crawlers/Newspapers/ProxyList') as f:
     proxy_list = [line.strip() for line in f]
 
 
-with open('Newspapers/WebsiteLists') as f:
+with open('Crawlers/Newspapers/WebsiteLists') as f:
     websiteList = [line.strip() for line in f]
-with open('Newspapers/Keywords') as f:
+with open('Crawlers/Newspapers/Keywords') as f:
     KeywordList = [line.strip() for line in f]
 
 for website in websiteList:
