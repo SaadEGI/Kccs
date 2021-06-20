@@ -37,7 +37,7 @@ class google_search:
         url = "https://www.google.com/search?q={}{}".format('+'.join(self.search_term.split()), self.query_params)
 
         options = get_web_driver_options()
-         set_automation_as_head_less(options)
+        set_automation_as_head_less(options)
         set_ignore_certificate_error(options)
         # set_browser_as_incognito(options)
         # if(proxy is not None):
