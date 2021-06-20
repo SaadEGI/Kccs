@@ -24,21 +24,21 @@
 # #    steps:
     
 # # /.github/workflows/daily.yml
-# on:
-#   schedule:
-#     - cron:  '*/5 * * * *' # every day at 8am
-# name: Scrape Articles
-# jobs:
-#   build:
-#     name: Build
-#     runs-on: ubuntu-latest
-#     steps:
-#     - uses: actions/checkout@master
-#     - name: Scrape
-#       run: python3 Crawlers/Newspapers/newsAction.py 
-#       # env:
-#       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-#     - uses: mikeal/publish-to-github-action@master
-#       env:
-#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+on:
+  schedule:
+    - cron:  '*/5 * * * *' # every day at 8am
+name: Scrape Articles
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Scrape
+      run: python3 Crawlers/Newspapers/newsAction.py 
+      # env:
+      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       
