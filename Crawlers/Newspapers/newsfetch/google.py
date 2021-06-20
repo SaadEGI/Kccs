@@ -40,8 +40,8 @@ class google_search:
         # set_automation_as_head_less(options)
         set_ignore_certificate_error(options)
         # set_browser_as_incognito(options)
-        if(proxy is not None):
-            set_proxy(options, proxy)
+        # if(proxy is not None):
+        #     set_proxy(options, proxy)
 
         
         driver = get_chrome_web_driver(options)

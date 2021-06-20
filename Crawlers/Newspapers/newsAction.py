@@ -11,8 +11,8 @@ filename = f'Crawlers/{time.strftime("%Y%m%d-%H%M%S")}_raw.json'
 proxy_list = []
 
 
-with open('Crawlers/Newspapers/ProxyList') as f:
-    proxy_list = [line.strip() for line in f]
+# with open('Crawlers/Newspapers/ProxyList') as f:
+#     proxy_list = [line.strip() for line in f]
 
 
 with open('Crawlers/Newspapers/WebsiteLists') as f:
@@ -28,10 +28,10 @@ for website in websiteList:
             proxy = proxy_list.pop()
         except Exception as err:
             print(err)
-        if(proxy is not None):
-            query = google_search(keyword, website, query_params='m', num_pages=1, proxy = proxy)
-        else:
-            query = google_search(keyword, website, query_params='m', num_pages=1)
+        # if(proxy is not None):
+        #     query = google_search(keyword, website, query_params='m', num_pages=1, proxy = proxy)
+        # else:
+        query = google_search(keyword, website, query_params='m', num_pages=1)
         if(hasattr(query, 'urls')):
             print(website)
             for url in query.urls:
