@@ -37,8 +37,10 @@ jobs:
     - name: prepare
       run:
         pip3 install chromedriver_binary pandas requests unidecode bs4 fake_useragent newspaper3k news-please requests selenium
-    - name: Scrape
-      run: python3 Crawlers/Newspapers/newsAction.py 
+    - name: cd into director
+      run: cd Crawlers/Newspapers
+    - name: Scrape articles 
+      run: python3 newsAction.py 
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
     - uses: mikeal/publish-to-github-action@master
