@@ -1,14 +1,14 @@
 from newsfetch.helpers import (get_chrome_web_driver, get_web_driver_options,
                                set_automation_as_head_less,
                                set_browser_as_incognito,
-                               set_ignore_certificate_error)
+                               set_ignore_certificate_error, set_proxy)
 from newsfetch.utils import (BeautifulSoup, Options, UserAgent,
                              chromedriver_binary, get, re, sys, time,
                              webdriver)
 
 class google_search:
 
-    def __init__(self, keyword, newspaper_url, query_params=None, num_pages = 1):
+    def __init__(self, keyword, newspaper_url, query_params=None, num_pages = 1, proxy = None):
 
         self.keyword = keyword
         self.newspaper_url = newspaper_url
@@ -16,6 +16,7 @@ class google_search:
         random_headers = {'User-Agent': UserAgent().random,
                           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'}
         self.search_term = '"{}" site:{}'.format(self.keyword, self.newspaper_url)
+
 
 
         if(query_params == 'd'):
@@ -36,9 +37,13 @@ class google_search:
         url = "https://www.google.com/search?q={}{}".format('+'.join(self.search_term.split()), self.query_params)
 
         options = get_web_driver_options()
-        set_automation_as_head_less(options)
+        # set_automation_as_head_less(options)
         set_ignore_certificate_error(options)
-        set_browser_as_incognito(options)
+        # set_browser_as_incognito(options)
+        if(proxy is not None):
+            set_proxy(options, proxy)
+
+        
         driver = get_chrome_web_driver(options)
         driver.get(url)
         

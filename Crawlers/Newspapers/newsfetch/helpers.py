@@ -37,6 +37,8 @@ def get_chrome_web_driver(options):
 def get_web_driver_options():
     return webdriver.ChromeOptions()
 
+def set_proxy(options, PROXY):
+    options.add_argument('--proxy-server=%s' % PROXY)
 
 def set_ignore_certificate_error(options):
     options.add_argument('--ignore-certificate-errors')
