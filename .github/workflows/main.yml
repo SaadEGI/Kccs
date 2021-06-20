@@ -8,37 +8,37 @@
 #  push:
 #    branches: [ main ]
 #  pull_request:
-#    branches: [ main ]
-#
-#  # Allows you to run this workflow manually from the Actions tab
-#  workflow_dispatch:
-#
-## A workflow run is made up of one or more jobs that can run sequentially or in parallel
-#jobs:
-#  # This workflow contains a single job called "build"
-#  build:
-  #  # The type of runner that the job will run on
- #   runs-on: ubuntu-latest
-#
-#    # Steps represent a sequence of tasks that will be executed as part of the job
-#    steps:
+# #    branches: [ main ]
+# #
+# #  # Allows you to run this workflow manually from the Actions tab
+# #  workflow_dispatch:
+# #
+# ## A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# #jobs:
+# #  # This workflow contains a single job called "build"
+# #  build:
+#   #  # The type of runner that the job will run on
+#  #   runs-on: ubuntu-latest
+# #
+# #    # Steps represent a sequence of tasks that will be executed as part of the job
+# #    steps:
     
-# /.github/workflows/daily.yml
-on:
-  schedule:
-    - cron:  '*/5 * * * *' # every day at 8am
-name: Scrape Articles
-jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@master
-    - name: Scrape
-      run: python3 Crawlers/Newspapers/newsAction.py 
-      # env:
-      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+# # /.github/workflows/daily.yml
+# on:
+#   schedule:
+#     - cron:  '*/5 * * * *' # every day at 8am
+# name: Scrape Articles
+# jobs:
+#   build:
+#     name: Build
+#     runs-on: ubuntu-latest
+#     steps:
+#     - uses: actions/checkout@master
+#     - name: Scrape
+#       run: python3 Crawlers/Newspapers/newsAction.py 
+#       # env:
+#       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+#     - uses: mikeal/publish-to-github-action@master
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       
