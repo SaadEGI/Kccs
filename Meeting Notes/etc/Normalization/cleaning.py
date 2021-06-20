@@ -30,18 +30,22 @@ def lemmSentence(sentence):
 
 # input_str = "\t \nThis &is [an] 2 33 example? {of} string. with.? 45 4 punctuation!!!!" # Sample string
 
-article = NewsPlease.from_url('https://www.nytimes.com/2021/06/19/world/americas/brazil-drought.html')
-# make a dictonary object from NewsPlease object
-d = article.__dict__
+# article = NewsPlease.from_url('https://www.nytimes.com/2021/06/19/world/americas/brazil-drought.html')
+# # make a dictonary object from NewsPlease object
+# d = article.__dict__
 
-# Convert it to string 
-s = json.dumps(d, indent=4, sort_keys=True, default=str)
+# # Convert it to string 
+# s = json.dumps(d, indent=4, sort_keys=True, default=str)
 
-input_str = article.maintext
+# input_str = article.maintext
 
-# write it to json file
-with open('new.json', "w") as fp:
-	fp.write(s)
+# # write it to json file
+# with open('new.json', "w") as fp:
+# 	fp.write(s)
+
+with open('new.json') as json_file:
+    data = json.load(json_file)
+input_str = data["maintext"]
 
 
 # Replace digits with space
