@@ -35,7 +35,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Scrape
-      run: python3 Crawlers/newsAction 
+      run: python3 Crawlers/newsAction.py 
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
     - uses: mikeal/publish-to-github-action@master
