@@ -27,15 +27,13 @@
 on:
   schedule:
     - cron:  '*/5 * * * *' # every day at 8am
-name: Pull Data and Build
+name: Scrape Articles
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Build
-      run: npm install
     - name: Scrape
       run: python3 Crawlers/newsAction 
       # env:
