@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@master
     - name: prepare
       run:
-        pip3 install chromedriver_binary pandas requests unidecode bs4 fake_useragent newspaper3k news-please requests selenium
+        pip3 install chromedriver_binary==92.0.4515.43.0 pandas requests unidecode bs4 fake_useragent newspaper3k news-please requests selenium
     - name: Scrape articles 
       run: python3 Crawlers/Newspapers/newsAction.py 
     - uses: mikeal/publish-to-github-action@master
