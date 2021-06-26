@@ -9,6 +9,19 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from newsplease import NewsPlease
 from sklearn.feature_extraction.text import CountVectorizer
 
+
+# You may need to download gensim before: pip install gensim
+# from numpy import dot
+import numpy as np 
+from scipy.stats import norm
+import warnings
+warnings.filterwarnings(action = 'ignore')
+import gensim
+from gensim import models
+from gensim.test.utils import common_texts
+from gensim.models import Word2Vec
+
+
 def stemSentence(sentence):
     token_words = word_tokenize(sentence)
     stem_sentence = []
@@ -27,6 +40,7 @@ def lemmSentence(sentence):
     return "".join(lemma_sentence)
 
 def normatizeDocument(sentence):
+    sentence = sentence.lower()
     sentence = re.sub(r"\d+", "", sentence)
     # Remove punctuations, instead put spaces
     result = sentence.translate(str.maketrans("", "", string.punctuation))
@@ -34,6 +48,7 @@ def normatizeDocument(sentence):
     result = re.sub(' +', ' ', result)
     # remove whitespaces (tabs,..)
     result = result.strip()
+
 
 
     stop_words = set(stopwords.words('english'))
@@ -50,11 +65,61 @@ def createWordVector(articles): # takes a list containing all articles to be vec
     wordVectors = vectorizer.fit_transform(articles)
     return wordVectors.toarray()
 
+# measure the similarity of 2 vectors using the angle teta between them
+def cosine_distance (model, word,target_list , num) :
+    cosine_dict ={}
+    word_list = []
+    a = model.wv[word]
+    for item in target_list :
+        if item != word :
+            b = model.wv[item]
+            cos_sim = np.dot(a,b)/(np.linalg.norm(a)*np.linalg.norm(b))
+            cosine_dict[item] = cos_sim
+    dist_sort = sorted(cosine_dict.items(), key=lambda dist: dist[1],reverse = True) ## in Descedning order 
+    for item in dist_sort:
+        word_list.append((item[0], item[1]))
+    return word_list[0:num]
 
-document = "\t \nThis &is [an] 2 33 example? {of} string. with.? 45 4 punctuation!!!!" # Sample string
+
+
+document = '''\t \nThis &is [an] 2 33 example? {of} string. with.? 45 4 punctuation!!!! try to add more than
+one sentence to be able to illustrate the effect example.
+''' # Sample string
 
 print(document)
 result = stemSentence(normatizeDocument(document))
 print(result)
+data = result
 result = createWordVector([result])
-print(result)
+print('count: ', result)
+
+
+# Create CBOW model
+
+corpus = [[word.lower() for word in data.split()]] # List the data checking lowercase
+print('From str to list: ', corpus)
+
+
+
+model = Word2Vec(corpus, min_count=1)
+# print(model.wv.most_similar('exampl'))
+print('Cos distance: ', cosine_distance (model,'add',['exampl', 'abl'],3)) 
+
+
+
+# model = Word2Vec(sentences=common_texts, vector_size=100, window=5, min_count=1, workers=4)
+# print(model)
+# model = Word2Vec.load("word2vec.model")
+# model.train([["hello", "world"]], total_examples=1, epochs=1)
+# print(model.vocab)
+
+
+
+
+# model1 = gensim.models.Word2Vec(data, min_count = 1, window = 5)
+# # model_hasTrain = word2vec.Word2Vec.load(saveBinPath)
+# y = model1.wv.most_similar('string', topn=100)
+# # model1 = models.Word2Vec.load_word2vec_format('model', binary=True)
+# # Print results
+# # print("Cosine similarity between 'alice' " + "and 'wonderland' - CBOW : ", model1.similarity('alice', 'wonderland'))     
+# # print("Cosine similarity between 'alice' " + "and 'machines' - CBOW : ", model1.similarity('alice', 'machines'))
