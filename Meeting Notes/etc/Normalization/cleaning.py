@@ -100,26 +100,6 @@ corpus = [[word.lower() for word in data.split()]] # List the data checking lowe
 print('From str to list: ', corpus)
 
 
-
 model = Word2Vec(corpus, min_count=1)
 # print(model.wv.most_similar('exampl'))
 print('Cos distance: ', cosine_distance (model,'add',['exampl', 'abl'],3)) 
-
-
-
-# model = Word2Vec(sentences=common_texts, vector_size=100, window=5, min_count=1, workers=4)
-# print(model)
-# model = Word2Vec.load("word2vec.model")
-# model.train([["hello", "world"]], total_examples=1, epochs=1)
-# print(model.vocab)
-
-
-
-
-# model1 = gensim.models.Word2Vec(data, min_count = 1, window = 5)
-# # model_hasTrain = word2vec.Word2Vec.load(saveBinPath)
-# y = model1.wv.most_similar('string', topn=100)
-# # model1 = models.Word2Vec.load_word2vec_format('model', binary=True)
-# # Print results
-# # print("Cosine similarity between 'alice' " + "and 'wonderland' - CBOW : ", model1.similarity('alice', 'wonderland'))     
-# # print("Cosine similarity between 'alice' " + "and 'machines' - CBOW : ", model1.similarity('alice', 'machines'))
