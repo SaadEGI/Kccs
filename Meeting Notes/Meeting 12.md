@@ -1,10 +1,10 @@
-[Meeting X](Enter meeting video url here)           | dd.mm.yyyy
+[Meeting 12](https://drive.google.com/file/d/1vdfAUPT97UNLb13_cxxSoMYMGzzftoPO/view?usp=sharing)           | 08.07.2021
 ----------------------|-
-Protocol organizer    | -
+Protocol organizer    | Saad Bendou
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
 Absent members        | -
-Begin                 | hh:mm
-End                   | hh:mm
+Begin                 | 18:00 
+End                   | 18:30
 
 
 Agenda 
@@ -19,13 +19,12 @@ Opened Issues
 ---
 <!-- What else (if not noted in the Agenda section) did we discuss -->
 
-- Issue 1
-    1. Subpoint 1  
-    2. Subpoint 2
+- We defined the roles of each one of us (check issues) and the deadline for it.
+- 
 
 Agreed upon Tasks
 ---
-- Person A will do task (describe task here and create a github issue for it)
+- Check issues
 
 ---
-Meeting ended on dd.mm.yyyy at hh:mm. Next meeting will be on the dd.mm.yyyy at hh:mm via Zoom.
+Meeting ended on 08.07.2021 at 18:30. Next meeting will be on the 11.07.2021 at 1X:00 via Zoom.
