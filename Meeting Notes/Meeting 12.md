@@ -20,7 +20,6 @@ Opened Issues
 <!-- What else (if not noted in the Agenda section) did we discuss -->
 
 - We defined the roles of each one of us (check issues) and the deadline for it.
-- 
 
 Agreed upon Tasks
 ---
