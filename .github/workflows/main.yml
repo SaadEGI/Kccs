@@ -9,9 +9,9 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: prepare
-      run: git clone https://github.com/tasos-py/Search-Engines-Scraper;cd Search-Engines-Scraper;sudo python setup.py install
-    - name: Scrape articles 
-      run: python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
+      run: git clone https://github.com/tasos-py/Search-Engines-Scraper;cd Search-Engines-Scraper;sudo python setup.py install; pwd; python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
+#     - name: Scrape articles 
+#       run: python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
