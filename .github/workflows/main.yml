@@ -1,19 +1,19 @@
-# on:
-#  schedule:
-#    - cron:  '*/5 * * * *' # every 5 minutes
-# name: Scrape Articles
-# jobs:
-#   build:
-#     name: Build
-#     runs-on: ubuntu-latest
-#     steps:
-#     - uses: actions/checkout@master
-#     - name: prepare1
-#       run: pip3 install  pandas requests unidecode bs4 fake_useragent newspaper3k news-please requests selenium
-#     - name: prepare2
-#       run: pip install git+https://github.com/danielkaiser/python-chromedriver-binary.git
-#     - name: Scrape articles 
-#       run: python3 Crawlers/Newspapers/newsAction.py 
-#     - uses: mikeal/publish-to-github-action@master
-#       env:
-#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+on:
+ schedule:
+   - cron:  '*/5 * * * *' # every 5 minutes
+name: Scrape Articles
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: prepare1
+      run: git clone https://github.com/tasos-py/Search-Engines-Scraper
+    - name: prepare2
+      run: python setup.py install
+    - name: Scrape articles 
+      run: python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
