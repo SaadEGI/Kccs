@@ -14,7 +14,9 @@ jobs:
        cd Search-Engines-Scraper;
        sudo python setup.py install;
     - name: Scrape articles 
-      run: python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
+      run: |
+       cd Search-Engines-Scraper;
+       python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
     - name: clean
       run: |
        mv /home/runner/work/Kccs/Kccs/Search-Engines-Scraper/search_engines/search_results/output.json /home/runner/work/Kccs/Kccs/output.json;
