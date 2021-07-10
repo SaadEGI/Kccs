@@ -1,0 +1,2630 @@
+http://59.mvd.ru/
+http://alahad.tv.iq/
+^ 406
+http://allafrica.com/botswana/
+^ requestException
+http://allafrica.com/centralafricanrepublic/
+^ requestException
+http://annoukhba.info/
+^ 406
+http://apostoladoangola.com/
+^ 404
+http://arabic.people.com.cn/
+http://araraddaily.org/
+^ 406
+http://asiancorrespondent.com/category/hong-kong/
+^ requestException
+http://asiancorrespondent.com/category/india/
+^ requestException
+http://asiancorrespondent.com/category/Malaysia/
+^ requestException
+http://asiancorrespondent.com/category/philippines/
+^ requestException
+http://asiancorrespondent.com/category/south-korea/
+^ requestException
+http://bianet.org/
+^ 403
+http://buzznigeria.com/
+^ 403
+http://community.skynetjp.com/
+^ 406
+http://dailyinduspost.com/
+^ 406
+http://dainikcoxsbazar.com/
+^ 406
+http://dalitvoice24.com/
+^ 406
+http://dastaknews.com/
+^ 406
+http://desertnews.com/
+^ 451
+http://english.pnn.ps/
+^ 403
+http://ethiopianreporter.com/
+^ 503
+http://farajat.net/
+^ 403
+http://french.people.com.cn/
+http://gzdaily.dayoo.com/
+^ requestException
+http://haber.sol.org.tr/
+^ 403
+http://habiganj-samachar.com/
+^ 412
+http://hamdamdaily.com/
+^ 406
+http://hanfordsentinel.com/
+^ 451
+http://heswall.today/news/
+^ 404
+http://hyemedia.com/
+^ 406
+http://kafanews.com/
+http://kairabanewsnetwork.com/the-gambia/
+^ 406
+http://kibrisgazetesi.com/
+^ 503
+http://koha.com.mk/
+http://kstati.net/
+^ 406
+http://lagazettedescomores.com/
+http://lahorimela.com/
+^ 502
+http://latinotimes.com/
+http://mcrecordonline.com/
+^ requestException
+http://morungexpress.com/
+^ 403
+http://moultonadvertiser.com/
+^ 451
+http://multanupdates.com/
+^ requestException
+http://myanmarnews.net/
+^ 403
+http://mykeralanews.com/
+^ 406
+http://news.berkeley.edu/
+^ 403
+http://newspaper.visayanbizpost.com/
+^ requestException
+http://news.seehua.com/
+^ 403
+http://onlinenews.com.pk/
+http://onlylebanon.net/
+^ requestException
+http://pakistantribune.com.pk/
+^ requestException
+http://pakmedia.com.pk/
+^ 406
+http://periodismoindependiente.es/
+^ 500
+http://plus.lefigaro.fr/cercle/le-figaro-in-english/
+http://poslezavtra.com.ua/
+^ 403
+http://prothomsokal24.com/
+^ 403
+https://actucameroun.com/
+^ 403
+https://africasports.net/
+^ requestException
+https://ahmedabadmirror.indiatimes.com/
+^ requestException
+https://ainalyaqeen.com/
+^ requestException
+https://akinchi.org/
+^ 406
+https://al-akhbar.com/
+^ 403
+https://allafrica.com/angola/
+^ requestException
+https://allafrica.com/benin/
+^ requestException
+https://allafrica.com/burkinafaso/
+^ requestException
+https://allafrica.com/capeverde/
+^ requestException
+https://allafrica.com/comoros/
+^ requestException
+https://allafrica.com/cotedivoire/
+^ requestException
+https://allafrica.com/djibouti/
+^ requestException
+https://allafrica.com/eritrea/
+^ requestException
+https://allafrica.com/ethiopia/
+^ requestException
+https://allafrica.com/gambia/
+^ requestException
+https://allafrica.com/guinea/
+^ requestException
+https://allafrica.com/guineabissau/
+^ requestException
+https://allafrica.com/kenya/
+^ requestException
+https://allafrica.com/lesotho/
+^ requestException
+https://allafrica.com/liberia/
+^ requestException
+https://allafrica.com/libya/
+^ requestException
+https://allafrica.com/madagascar/
+^ requestException
+https://allafrica.com/malawi/
+^ requestException
+https://allafrica.com/mali/
+^ requestException
+https://allafrica.com/mauritania/
+^ requestException
+https://allafrica.com/morocco/
+^ requestException
+https://allafrica.com/mozambique/
+^ requestException
+https://allafrica.com/namibia/
+^ requestException
+https://allafrica.com/rwanda/
+^ requestException
+https://allafrica.com/senegal/
+^ requestException
+https://allafrica.com/seychelles/
+^ requestException
+https://allafrica.com/somalia/
+^ requestException
+https://allafrica.com/southafrica/
+^ requestException
+https://allafrica.com/southsudan/
+^ requestException
+https://allafrica.com/sudan/
+^ requestException
+https://allafrica.com/swaziland/
+^ requestException
+https://allafrica.com/togo/
+^ requestException
+https://allafrica.com/tunisia/
+^ requestException
+https://allafrica.com/uganda/
+^ requestException
+https://allafrica.com/zambia/
+^ requestException
+https://amaderprotidin.com/
+^ 406
+https://anacao.cv/
+^ 403
+https://anbaaonline.com/
+^ 403
+https://armenpress.am/arm/
+^ 520
+https://azamil.com/
+^ 403
+https://buffalonews.com/
+^ 451
+https://cebudailynews.inquirer.net/
+^ 403
+https://citizentv.co.ke/
+^ 403
+https://comillarbarta.com/
+^ 406
+https://dhudialnews.com/
+^ 406
+https://dziennikpolski24.pl/
+^ 403
+https://echodnia.eu/
+^ 403
+https://eindhovennews.com/
+^ requestException
+https://esaimaa.fi/mielipide/
+^ 404
+https://esaimaa.fi/saimaa/
+^ 404
+https://expressilustrowany.pl/
+^ 403
+https://firstreportsonline.com/
+^ 406
+https://free4readers.com/Daily-Eleven/
+^ 404
+https://gazetakrakowska.pl/
+^ 403
+https://gazetalubuska.pl/
+^ 403
+https://gazetawroclawska.pl/
+^ 403
+https://goodmorningturkey.com/
+^ 406
+http://shahernama.com/
+^ 403
+https://helaostrasmaland.se/
+^ 406
+https://iz.ru/
+https://juraat.com/
+^ 406
+https://lancasteronline.com/
+^ 451
+http://slconcordtimes.com/
+^ requestException
+https://maandeeq.net/
+^ 406
+https://malagen.com/
+^ 406
+https://mediamax.am/am/
+^ 520
+https://mediamax.am/en/
+^ 520
+https://mediamax.am/ru/
+^ 520
+https://mgronline.com/
+https://mindanaogoldstardaily.com/
+^ requestException
+https://nairobinews.nation.co.ke/
+^ 403
+https://nawe.bi/
+^ 406
+https://noistranieri.it/
+^ 406
+https://nowiny24.pl/
+^ 403
+https://nuz.uz/
+^ 403
+https://omaha.com/
+^ 451
+https://pakistanlink.org/
+^ 406
+https://pda.ch/feeds/vorwaerts/
+^ 403
+https://politis.com.cy/
+^ requestException
+https://polskatimes.pl/
+^ 403
+https://poranny.pl/
+^ 403
+https://rabota-obuchenie.ru/
+https://richmond.com/
+^ 451
+https://rmol.id/
+^ 403
+https://roanoke.com/
+^ 451
+https://sermitsiaq.ag/
+^ 403
+https://somaliatoday.net/
+^ 406
+https://telegraf.bb.lv/
+^ 403
+https://theberkshireedge.com/
+^ 403
+https://thecalabashnewspaper.com/
+^ 406
+https://thenewdawnliberia.com/
+^ 403
+https://thepattayanews.com/
+^ 403
+https://triblive.com/
+^ 403
+https://ttinform.lv/
+https://tucson.com/
+^ 451
+https://tulsaworld.com/
+^ 451
+https://udaipurtimes.com/news-archive/
+^ 404
+https://vechirniy.kyiv.ua/
+https://web.gencat.cat/
+https://wspolczesna.pl/
+^ 403
+https://www.7day.news/
+^ 530
+https://www.acorianooriental.pt/
+^ 403
+https://www.alalamtv.net/
+https://www.almadapaper.net/
+^ 503
+https://www.almasryalyoum.com/
+^ 403
+https://www.altaakhipress.com/
+^ 406
+https://www.annistonstar.com/the_daily_home/
+^ 451
+https://www.arabnews.com/saudiarabia
+^ 403
+https://www.armeniadiaspora.com/
+^ 404
+https://www.armenianow.com/
+^ 404
+https://www.armenianweekly.com/
+^ 403
+https://www.asemana.publ.cv/
+^ 410
+https://www.ashleynewsobserver.com/
+^ 451
+https://www.asodeguesegundaetapa.org/
+https://www.avadhnama.com/
+^ 406
+https://www.baltimoresun.com/
+^ 403
+https://www.borkenerzeitung.de/
+^ requestException
+https://www.cartamz.com/
+^ 406
+https://www.centrafrique-presse.info/
+^ requestException
+https://www.charlotteobserver.com/
+^ requestException
+https://www.chronicle.gm/
+^ 403
+https://www.commercejournal.com.mm/
+^ requestException
+https://www.connachttribune.ie/
+^ 403
+https://www.courant.com/
+^ 403
+https://www.dailybruin.com
+^ requestException
+https://www.dailyrecord.co.uk/all-about/ayr
+^ 403
+https://www.dailyrecord.co.uk/all-about/dumfries-galloway/
+^ 403
+https://www.dailyrecord.co.uk/all-about/east-kilbride
+^ 403
+https://www.dailyrecord.co.uk/all-about/east-kilbride/
+^ 403
+https://www.dailyrecord.co.uk/all-about/galloway-news
+^ 403
+https://www.dailyrecord.co.uk/all-about/perthshire/
+^ 403
+https://www.dailyrecord.co.uk/all-about/rutherglen/
+^ 403
+https://www.dailyrecord.co.uk/all-about/wishaw/
+^ 403
+https://www.dailyrecord.co.uk/authors/blairgowrie-advertiser/
+^ 403
+https://www.dailyrecord.co.uk/authors/dumfries-and-galloway-standard/
+^ 403
+https://www.dailyrecord.co.uk/authors/irvine-herald/
+^ 403
+https://www.dailyrecord.co.uk/authors/kilmarnock-standard/
+^ 403
+https://www.dailyrecord.co.uk/authors/lennox-herald/
+^ 403
+https://www.dailyrecord.co.uk/authors/rutherglen-reformer/
+^ 403
+https://www.dailyrecord.co.uk/authors/stirling-observer/
+^ 403
+https://www.dailyrecord.co.uk/authors/strathearn-herald/
+^ 403
+https://www.dailyrecord.co.uk/authors/wishaw-press/
+^ 403
+https://www.dailystar.co.uk/
+^ 403
+https://www.dhudialnews.com/
+^ 406
+https://www.diariosur.es/
+^ 403
+https://www.digitalbanglanews.com/
+^ 406
+https://www.dilemaveche.ro/
+https://www.donegaldaily.com/tag/tirconaill-tribune/
+^ 403
+https://www.dublinpeople.com/
+^ requestException
+https://www.dutchnews.nl/
+^ 403
+https://www.elcomercio.es/
+^ 403
+https://www.elconfidencial.com/tags/lugares/guinea-ecuatorial-9715/
+^ 403
+https://www.elcorreo.com/
+^ 403
+https://www.eldiario.es/directo/
+https://www.eldiariomontanes.es/
+^ 403
+https://www.elnortedecastilla.es/
+^ 403
+https://www.emaratalyoum.com/
+https://www.eubusiness.com/europe/romania/bucharest-business-week/
+^ requestException
+https://www.evz.ro/
+^ 520
+https://www.facebook.com/reporterbrailean/
+^ 404
+https://www.football-plus.az/
+^ 404
+https://www.fresnobee.com/
+^ requestException
+https://www.fridayflyer.com/
+^ 406
+https://www.glassrpske.com/
+^ 403
+https://www.globalmalayalam.com/
+^ 406
+https://www.globaltimes-sl.com/
+^ 406
+https://www.guineaecuatorialpress.com/ultimas_noticias.php
+^ 404
+https://www.husainitimes.com/
+^ 406
+https://www.ideal.es/
+^ 403
+https://www.inquirer.net/
+^ 403
+https://www.insider.gr/
+^ 403
+https://www.investors.com/
+^ 403
+https://www.ippmedia.com/sw/nipashe
+^ requestException
+https://www.irishmirror.ie/
+^ 403
+https://www.irishmirror.ie/all-about/sligo
+^ 403
+https://www.irrawaddy.com/
+^ 403
+https://www.japanherald.com/
+^ 403
+https://www.japanrubberweekly.com/
+^ 403
+https://www.jeuneafrique.com/pays/afrique-du-sud/
+^ 403
+https://www.jeuneafrique.com/pays/angola/
+^ 403
+https://www.jeuneafrique.com/pays/benin/
+^ 403
+https://www.jeuneafrique.com/pays/botswana/
+^ 403
+https://www.jeuneafrique.com/pays/burkina-faso/
+^ 403
+https://www.jeuneafrique.com/pays/burundi/
+^ 403
+https://www.jeuneafrique.com/pays/cameroun/
+^ 403
+https://www.jeuneafrique.com/pays/cap-vert/
+^ 403
+https://www.jeuneafrique.com/pays/centrafrique/
+^ 403
+https://www.jeuneafrique.com/pays/comores/
+^ 403
+https://www.jeuneafrique.com/pays/cote-divoire/
+^ 403
+https://www.jeuneafrique.com/pays/djibouti/
+^ 403
+https://www.jeuneafrique.com/pays/erythree/
+^ 403
+https://www.jeuneafrique.com/pays/ethiopie/
+^ 403
+https://www.jeuneafrique.com/pays/gabon/
+^ 403
+https://www.jeuneafrique.com/pays/gambie/
+^ 429
+https://www.jeuneafrique.com/pays/guinee/
+^ 403
+https://www.jeuneafrique.com/pays/guinee-bissau/
+^ 429
+https://www.jeuneafrique.com/pays/guinee-equatoriale/
+^ 429
+https://www.jeuneafrique.com/pays/kenya/
+^ 429
+https://www.jeuneafrique.com/pays/lesotho/
+^ 429
+https://www.jeuneafrique.com/pays/liberia/
+^ 429
+https://www.jeuneafrique.com/pays/libye/
+^ 429
+https://www.jeuneafrique.com/pays/madagascar/
+^ 429
+https://www.jeuneafrique.com/pays/malawi/
+^ 429
+https://www.jeuneafrique.com/pays/mali/
+^ 429
+https://www.jeuneafrique.com/pays/maroc/
+^ 403
+https://www.jeuneafrique.com/pays/maurice/
+^ 403
+https://www.jeuneafrique.com/pays/mauritanie/
+^ 429
+https://www.jeuneafrique.com/pays/mozambique/
+^ 429
+https://www.jeuneafrique.com/pays/namibie/
+^ 429
+https://www.jeuneafrique.com/pays/niger/
+^ 429
+https://www.jeuneafrique.com/pays/nigeria/
+^ 429
+https://www.jeuneafrique.com/pays/ouganda/
+^ 429
+https://www.jeuneafrique.com/pays/rd-congo/
+^ 429
+https://www.jeuneafrique.com/pays/republique-du-congo/
+^ 429
+https://www.jeuneafrique.com/pays/rwanda/
+^ 429
+https://www.jeuneafrique.com/pays/sao-tome-et-principe/
+^ 429
+https://www.jeuneafrique.com/pays/senegal/
+^ 403
+https://www.jeuneafrique.com/pays/sierra-leone/
+^ 429
+https://www.jeuneafrique.com/pays/somalie/
+^ 403
+https://www.jeuneafrique.com/pays/soudan/
+^ 429
+https://www.jeuneafrique.com/pays/soudan-du-sud/
+^ 429
+https://www.jeuneafrique.com/pays/swaziland/
+^ 429
+https://www.jeuneafrique.com/pays/tanzanie/
+^ 429
+https://www.jeuneafrique.com/pays/tchad/
+^ 429
+https://www.jeuneafrique.com/pays/togo/
+^ 429
+https://www.jeuneafrique.com/pays/tunisie/
+^ 429
+https://www.jeuneafrique.com/pays/zambie/
+^ 429
+https://www.jornaldofundao.pt/
+^ 403
+https://www.journalinquirer.com/towns/andover/
+^ 451
+https://www.journalinquirer.com/towns/bolton/
+^ 451
+https://www.journalinquirer.com/towns/coventry/
+^ 451
+https://www.journalinquirer.com/towns/east_hartford/
+^ 451
+https://www.journalinquirer.com/towns/east_windsor/
+^ 451
+https://www.journalinquirer.com/towns/ellington/
+^ 451
+https://www.journalinquirer.com/towns/enfield/
+^ 451
+https://www.journalinquirer.com/towns/glastonbury/
+^ 451
+https://www.journalinquirer.com/towns/hebron/
+^ 451
+https://www.journalinquirer.com/towns/manchester/
+^ 451
+https://www.journalinquirer.com/towns/somers/
+^ 451
+https://www.journalinquirer.com/towns/south_windsor/
+^ 451
+https://www.journalinquirer.com/towns/stafford/
+^ 451
+https://www.journalinquirer.com/towns/suffield/
+^ 451
+https://www.journalinquirer.com/towns/tolland/
+^ 451
+https://www.journalinquirer.com/towns/vernon/
+^ 451
+https://www.journalinquirer.com/towns/willington/
+^ 451
+https://www.journalinquirer.com/towns/windsor/
+^ 451
+https://www.journalinquirer.com/towns/windsor_locks/
+^ 451
+https://www.kansascity.com/
+^ requestException
+https://www.kenyastar.com/
+^ 403
+https://www.khaleejtimes.com/%20[In%20English]
+^ 404
+https://www.khaosod.co.th/
+^ 502
+https://www.knnc.net/
+^ 403
+https://www.ktla.com/tag/baldwin-hills/
+^ 451
+https://www.kvedomosti.ru/
+^ 403
+https://www.kyivpost.com/
+^ 403
+https://www.lagacetadeguinea.com/
+^ 404
+https://www.larioja.com/
+^ 403
+https://www.latimes.com/
+^ 403
+https://www.lavozdigital.es/
+^ 403
+https://www.leonoticias.com/
+^ 403
+https://www.libyaakhbar.com/
+^ 403
+https://www.libyajeel.com/
+^ requestException
+https://www.linhasdeelvas.pt/
+^ 403
+https://www.liputankami.online/
+^ requestException
+https://www.madison.com/wsj/
+^ 451
+https://www.malaysia-today.net/
+^ 503
+https://www.maldivestimes.com/
+^ 403
+https://www.manchestertimes.com/
+^ 451
+https://www.mandegardaily.com/
+^ 403
+https://www.mcall.com/
+^ 403
+https://www.miamiherald.com/
+^ requestException
+https://www.middleeasteye.net/
+^ 403
+https://www.mizzimaburmese.com/
+^ 403
+https://www.moi.gov.mm/nlm/
+^ 503
+https://www.mont-press.com/
+^ requestException
+https://www.mtkenyatimes.co.ke/
+^ 406
+https://www.muslimsduniya.com/
+^ 406
+https://www.mwebantu.com/
+^ 403
+https://www.mwebantu.news/
+^ requestException
+https://www.mwnation.com/
+^ requestException
+https://www.myanmargazette.net/
+^ requestException
+https://www.myawady.net.mm/
+^ 403
+https://www.nadir.org/nadir/periodika/angehoerigen_info/
+https://www.nadir.org/nadir/periodika/widerstand/
+https://www.nationalnetworkonline.com/en/
+^ 403
+https://www.netwerk24.com/huisgenoot/
+https://www.neweurope.eu/
+^ 403
+https://www.news24.com/SouthAfrica/Local/PE-Express
+^ 404
+https://www.news-kushiro.co.jp/
+https://www.newsobserver.com/
+^ requestException
+https://www.newtelegraphng.com/
+^ 403
+https://www.nigeriasun.com/
+^ 403
+https://www.noticiasmaia.com/
+^ 403
+https://www.nwitimes.com/
+^ 451
+https://www.nyasatimes.com/
+^ 403
+https://www.nydailynews.com/
+^ 403
+https://www.odespertar.pt/
+^ 403
+https://www.omannews.gov.om/
+^ 404
+https://www.orlandosentinel.com/
+^ 403
+https://www.pilotonline.com/
+^ 403
+https://www.pinalcentral.com/arizona_city_independent/
+^ 451
+https://www.politico.eu/
+^ 403
+https://www.portsmouth.co.uk/our-region/east-hampshire
+^ 404
+https://www.portsmouth.co.uk/our-region/fareham
+^ 404
+https://www.portsmouth.co.uk/our-region/gosport
+^ 404
+https://www.portsmouth.co.uk/our-region/havant
+^ 404
+https://www.portsmouth.co.uk/our-region/hayling-island
+^ 404
+https://www.portsmouth.co.uk/our-region/portsmouth
+^ 404
+https://www.portsmouth.co.uk/our-region/waterlooville
+^ 404
+https://www.portsmouth.co.uk/our-region/west-sussex
+^ 404
+https://www.pv.uz/en/
+^ requestException
+https://www.pv.uz/ru/
+^ requestException
+https://www.resistir.info/
+https://www.review.uz//
+^ 404
+https://www.sacbee.com/
+^ requestException
+https://www.sandiegouniontribune.com/
+^ 403
+https://www.sayangsabah.com/
+^ requestException
+https://www.scandinaviatimes.com/
+^ 403
+https://www.seattletimes.com/
+^ requestException
+https://www.sfexaminer.com/
+^ 403
+https://www.shetlandtimes.co.uk/
+^ 403
+https://www.sierraleonetimes.com/
+^ 403
+https://www.slovo.kg/
+^ requestException
+https://www.somalilandsun.com/
+^ 500
+https://www.spa.gov.sa/
+^ requestException
+https://www.sptimes.ru/
+^ requestException
+https://www.star-telegram.com/
+^ requestException
+https://www.stiridemaine.ro/
+https://www.stltoday.com/
+^ 451
+https://www.straitstimes.com/singapore/latest/
+^ 403
+https://www.sun-sentinel.com/
+^ 403
+https://www.thailandnews.co/category/isan/
+^ 404
+https://www.theascensionislander.com/
+^ requestException
+https://www.thebaghdadpost.com/ar/
+^ 403
+https://www.thebaghdadpost.com/en/
+^ 403
+https://www.thedailystar.net/tags/qatar/
+^ appendException!
+https://www.theinquirernewspaper.com/
+^ 406
+https://www.thelocal.fr/
+^ 403
+https://www.thenewstribune.com/
+^ requestException
+https://www.thenorthernecho.co.uk/news/local/southdurham/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/barnardcastle/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/bishopauckland/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/ferryhill/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/newtonaycliffe/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/sedgefield/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/shildon/
+^ 404
+https://www.thenorthernecho.co.uk/news/local/southdurham/spennymoor/
+^ 404
+https://www.thestate.com/
+^ requestException
+https://www.theviennareview.at/
+https://www.tibetexpress.net/
+^ 406
+https://www.timesca.com/index.php/news/afghanistan/
+^ 500
+https://www.timesca.com/index.php/news/kazakhstan/
+^ 500
+https://www.timesca.com/index.php/news/kyrgyzstan/
+^ 500
+https://www.timesca.com/index.php/news/tajikistan/
+^ 500
+https://www.timesca.com/index.php/news/turkmenistan/
+^ 500
+https://www.timesca.com/index.php/news/uzbekistan/
+^ 500
+https://www.togofirst.com/fr/
+^ 404
+https://www.trend.sk/
+https://www.tribunasalamanca.com/
+^ 403
+https://www.urdunewsroom.com/
+^ requestException
+https://www.uzbekistonovozi.uz/
+^ 500
+https://www.vanguardngr.com/
+^ 403
+https://www.vanhavadis.com/
+^ 403
+https://www.vietnamnet.vn/
+^ 403
+https://www.washingtonpost.com/
+^ requestException
+https://www.wsj.com/
+^ 403
+https://www.wsj.com/asia
+^ 403
+https://www.yaga-burundi.com/
+^ 403
+https://www.zaobao.com.sg/
+^ 403
+https://www.zaygwet.com/
+^ requestException
+https://zambiareports.com/
+^ requestException
+https://ziarulactualitatea.ro/
+http://ta-nea.dolnet.gr/
+^ requestException
+http://tatar.yuldash.com/
+^ 403
+http://tema.in.ua/
+http://thebusinesscourier.co.uk/
+^ 403
+http://thecabin.net/
+^ 451
+http://thegrawn.com/
+^ 400
+http://themonthlyview.home.mindspring.com/
+^ requestException
+http://thepashtuntimes.com/tag/pashtun/
+^ requestException
+http://thepointernewsonline.com/
+^ requestException
+http://thnews.com/
+^ 451
+http://tishreen.news.sy/
+^ requestException
+http://today.az/
+^ 503
+http://twentyfoursevennews.com/
+^ 406
+http://urdu.chauthiduniya.com/
+^ 406
+http://vidalatinasd.com/
+^ 403
+http://vojpj.com/
+^ requestException
+http://weeklysaiban.blogspot.com/
+^ 404
+http://ww.sf-post.com/
+^ requestException
+http://www.11barri.eus/
+^ 406
+http://www.1917.com/
+^ 403
+http://www.2000.net.ua/
+^ 403
+http://www.26sep.net/
+^ 403
+http://www.2kom.ru/
+^ requestException
+http://www.36naija.com/
+^ requestException
+http://www.5dariyanews.com/
+^ 403
+http://www.7akisa7.com/
+^ requestException
+http://www.8am.af/
+^ 403
+http://www.aajkal.com.pk/
+^ 500
+http://www.abante-tonite.com/
+^ 403
+http://www.abcdepaper.com/
+^ 403
+http://www.abc.es/
+^ 403
+http://www.abendzeitung-nuernberg.de/
+^ 401
+http://www.abhitaknews.com/
+http://www.abnworld.com/
+^ requestException
+http://www.actualidad24horas.com/
+^ requestException
+http://www.adaderana.lk/
+^ 403
+http://www.ada.lk/
+^ 403
+http://www.advertisergleam.com/
+^ 451
+http://www.afghanistansun.com/
+^ 403
+http://www.afghanistantimes.af/
+^ 500
+http://www.agelioforos.gr/
+^ requestException
+http://www.agranews.com/
+^ 406
+http://www.agvictor.com/
+^ requestException
+http://www.ahwaal.com/
+^ 526
+http://www.ahwatukee.com/
+^ 451
+http://www.aidas.lt/
+http://www.ajkerkrishi.com/
+^ 406
+http://www.ajnews.com/
+^ 404
+http://www.akhbaralyoumsd.net/
+^ requestException
+http://www.akhbarlelnasher.com/
+^ 404
+http://www.akhonsamoy.com/
+^ 406
+http://www.aktualne.cz/czechnews/
+^ 404
+http://www.al-7aqiqa.com/
+^ 403
+http://www.al-akhbar.com/
+^ 403
+http://www.al-awassef.com/
+^ requestException
+http://www.albayan.ae/
+http://www.albayanlebanon.com/
+^ 404
+http://www.al-binaa.com/
+^ requestException
+http://www.aldiyaronline.com/
+^ requestException
+http://www.alexcityoutlook.com/
+^ 451
+http://www.alexcityoutlook.com/category/dadeville/
+^ 451
+http://www.alharaka.org/
+^ requestException
+http://www.al-hawadess.com/
+^ requestException
+http://www.alhayat.com/
+^ 404
+http://www.alithiapress.net/
+^ requestException
+http://www.aliwaa.com/
+^ 403
+http://www.alkhabarpress.com/
+^ requestException
+http://www.al-manshour.org/
+^ 404
+http://www.almoharrer.net/
+^ requestException
+http://www.almushahidassiyasi.com/
+^ 404
+http://www.almustaqbal.org/
+^ requestException
+http://www.alnafeznews.com/
+^ 404
+http://www.alnilin.com/
+^ 403
+http://www.alqalamonline.com/
+^ 403
+http://www.alraialaam.com/
+^ requestException
+http://www.alrassedonline.com/
+^ 404
+http://www.alriyadh.com/
+^ requestException
+http://www.alsabahpress.com/
+^ requestException
+http://www.alsafeernews.com/arabic/
+^ 503
+http://www.alsharq.net.sa/
+^ requestException
+http://www.alshiraa.com/
+^ 406
+http://www.alwahdawi.net/
+^ 403
+http://www.alwasat.com.kw/
+^ requestException
+http://www.alwatanalarabi.com/
+^ 406
+http://www.alwatan.sy/
+^ 403
+http://www.al-wifaq.com/
+^ 403
+http://www.amadarshokal24.com/
+^ requestException
+http://www.amadersylhet.com/
+^ 403
+http://www.amardeshonline.com/
+^ requestException
+http://www.anchoragedailyplanet.com/
+^ 403
+http://www.anchoragepress.com/
+^ 451
+http://www.andhrawishesh.com/
+^ requestException
+http://www.annistonstar.com/as-index.htm
+^ 451
+http://www.annistonstar.com/newsjournal/
+^ 451
+http://www.apnajhelum.com/
+^ requestException
+http://www.apnapaknews.com/
+^ requestException
+http://www.apnapirmahal.com/
+^ requestException
+http://www.apnpk.com/
+^ 406
+http://www.apofasi.gr/
+http://www.appledaily.com.tw/
+^ 403
+http://www.arabianbusiness.com/
+^ 403
+http://www.arad24.net/
+^ 403
+http://www.aravot.am/
+^ 403
+http://www.arghakhanchi.com/
+^ 406
+http://www.argonautnewspaper.com/
+^ 403
+http://www.arizonaherald.com/
+^ 403
+http://www.arkansasleader.com/
+^ requestException
+http://www.arreyadi.com.sa/
+^ requestException
+http://www.arriyadh.com/
+^ requestException
+http://www.arrouwad.net/
+^ requestException
+http://www.artsakank.com.cy/
+^ requestException
+http://www.ashleycountyledger.com/
+^ 451
+http://www.asiatimeshk.com/
+^ requestException
+http://www.assabah.com.tn/
+^ requestException
+http://www.associatedpressservice.net/
+^ requestException
+http://www.assouhofiah.com/
+^ requestException
+http://www.athensexpress.gr/
+^ requestException
+http://www.athensnews.gr/
+^ requestException
+http://www.atnext.com/
+^ requestException
+http://www.attakwa.net/
+^ 403
+http://www.auburntoday.com/
+^ 403
+http://www.auniao.com/
+^ 403
+http://www.avondhupress.ie/
+^ 403
+http://www.axiaplus.gr/
+^ requestException
+http://www.ayanews.com/
+^ requestException
+http://www.azadidaily.com/
+^ requestException
+http://www.azamil.com/
+^ 403
+http://www.azbiz.com/
+^ 451
+http://www.azcapitoltimes.com/
+^ requestException
+http://www.azcentral.com/abgnews/
+^ 404
+http://www.azdailysun.com/
+^ 451
+http://www.azstarnet.com/
+^ 451
+http://www.aztrib.com/
+^ 451
+http://www.bab.com/
+^ requestException
+http://www.balcopress.com/
+^ requestException
+http://www.ballitonews.co.za/
+^ 403
+http://www.bangkokjack.com/
+^ 406
+http://www.bangla.24livenewspaper.com/
+^ 403
+http://www.bangladeshonline24.com/
+^ 406
+http://www.bangladeshsun.com/
+^ 403
+http://www.banglakantho.com/
+^ 403
+http://www.banglanews16.com/
+^ requestException
+http://www.banglanews24.com/
+^ requestException
+http://www.banglasomoy24.com/
+^ requestException
+http://www.banglatimes.com.bd/
+^ requestException
+http://www.banknews24.com/
+^ requestException
+http://www.basharat.com.pk/
+^ requestException
+http://www.baypointpress.com/
+^ 451
+http://www.bb-live.de/
+^ requestException
+http://www.bday.net/
+^ 406
+http://www.bdnationalnews.com/
+^ requestException
+http://www.bd-pratidin.com/
+^ 403
+http://www.beijingbulletin.com/
+^ 403
+http://www.beirutherald.com/
+^ requestException
+http://www.benewsberlin.com/
+^ 404
+http://www.bensonnews-sun.com/
+^ 451
+http://www.bhweekly.com/
+^ 406
+http://www.biladinews.com/
+^ 404
+http://www.bild.t-online.de/
+^ requestException
+http://www.bilkulonline.com/
+^ 406
+http://www.birminghamstar.com/
+^ 403
+http://www.bisnis.com/
+^ 403
+http://www.bizcity.ro/
+http://www.boersen-zeitung.com/
+^ 403
+http://www.bohemionews.com/
+^ 403
+http://www.boichitranews24.com/
+^ requestException
+http://www.bokavisen.no/
+http://www.bolukoroglu.com/
+^ 403
+http://www.bondia.ad/
+^ requestException
+http://www.breakingnews.com.bd/
+^ requestException
+http://www.brentwoodpress.com/
+^ 451
+http://www.bulgaria-weekly.com/
+^ 406
+http://www.buongiornoslovacchia.sk/
+^ 406
+http://www.businessreport.co.za/
+^ 404
+http://www.buzzreporters.com/
+^ requestException
+http://www.buzzsouthafrica.com/
+^ 403
+http://www.cabrillovoice.net/
+^ requestException
+http://www.calaverasenterprise.com/
+^ 451
+http://www.calhouncommunitypress.com/
+^ requestException
+http://www.calhouncounty.org/news/
+^ requestException
+http://www.californiaexaminer.net/
+^ requestException
+http://www.californiatelegraph.com/
+^ 403
+http://www.cambodiantimes.com/
+^ 403
+http://www.cameroonpostline.com/
+^ requestException
+http://www.caminha2000.com/
+http://www.campeaoprovincias.pt/
+^ 403
+http://www.canakkaleicinde.com/
+^ requestException
+http://www.canariasahora.com/
+^ 403
+http://www.capital.ro/
+^ 520
+http://www.capweek.com/
+^ 403
+http://www.ccir.ro/economistul/
+^ 404
+http://www.cen.com.kh/
+^ requestException
+http://www.centralvalleyvoicenews.com/
+^ requestException
+http://www.champion.com.ng/
+^ 502
+http://www.chinadailyapac.com/
+^ 403
+http://www.chinanationalnews.com/
+^ 403
+http://www.chinanews.cn/
+^ requestException
+http://www.chinapress.com.my/
+^ 403
+http://www.chitawan.com/
+^ 406
+http://www.chitralnews.com/
+^ 406
+http://www.chitralpost.net/
+^ requestException
+http://www.cidadetomar.pt/
+^ 403
+http://www.cityinfonetz.de/
+^ 403
+http://www.clairemonttimes.com/
+^ 403
+http://www.club-k.net/
+^ 403
+http://www.cnews24.com/
+^ requestException
+http://www.cocorioko.net/
+^ 406
+http://www.comillarkhabor.com/
+^ 406
+http://www.corcas.com/
+^ 500
+http://www.correiodominho.com/
+^ 403
+http://www.cotidianul.ro/
+^ requestException
+http://www.couriernews.com/
+^ 451
+http://www.covaipost.com/
+^ 403
+http://www.crestlinecourier-news.com/
+^ 404
+http://www.ctgbarta24.com/
+^ requestException
+http://www.cullmantimes.com/
+^ 451
+http://www.daily49er.com/
+^ 403
+http://www.dailyaaj.com.pk/
+^ 406
+http://www.dailyakhbar.com.pk/
+^ 406
+http://www.dailyamadercomilla.com/
+^ 403
+http://www.dailyausaf.com/
+^ 403
+http://www.dailycrimemail.com/
+^ 406
+http://www.dailyeuropeint.com/
+^ 404
+http://www.dailyhareef.com.pk/
+^ requestException
+http://www.dailyibrat.com/
+^ 406
+http://www.dailyilhaaq.com/
+^ requestException
+http://www.dailykashmirexpress.com/
+^ 406
+http://www.dailykesari.com/
+^ requestException
+http://www.dailykhowai.com/
+^ requestException
+http://www.dailymirror.lk/
+^ 403
+http://www.dailynews360.com/
+^ 409
+http://www.dailynews.gov.bw/
+^ requestException
+http://www.dailynewsmart.com.pk/
+^ requestException
+http://www.dailypilot.com/
+^ 403
+http://www.dailyrepublican.com/
+^ 406
+http://www.dailyrepublic.com/
+^ 403
+http://www.dailysangram.com/
+^ 530
+http://www.dailywahdat.com.pk/
+^ requestException
+http://www.dainikjugasankha.in/
+^ 406
+http://www.dainikmurder.net/
+^ 406
+http://www.dainiksavera.com/
+^ requestException
+http://www.dalitvoice24.com/
+^ 406
+http://www.daralhayat.com/
+^ 404
+http://www.davisenterprise.com/
+^ 403
+http://www.dayafterindia.com/
+^ requestException
+http://www.dba.dk/
+^ 403
+http://www.decaturdaily.com/
+^ 451
+http://www.defrut.be/
+^ requestException
+http://www.delo.mk/
+^ 406
+http://www.deltawindonline.com/
+^ 451
+http://www.der-muensterlaender.de/
+^ requestException
+http://www.descheveningschecourant.nl/
+http://www.desertdispatch.com/
+^ requestException
+http://www.desertherald.com/
+^ 406
+http://www.desertvalleystar.com/
+^ requestException
+http://www.deshaya.lk/
+^ 403
+http://www.deweek.net/
+http://www.diariosur.es/
+^ 403
+http://www.diariovasco.com/
+^ 403
+http://www.diclehaber.com/
+^ requestException
+http://www.dieburger.com/
+^ requestException
+http://www.dimokratiki.gr/
+^ 403
+http://www.dimokratiki.org/
+http://www.dimotikosantilogos.gr/
+^ requestException
+http://www.dnaberita.com/
+^ 406
+http://www.dnaindia.com/
+^ 403
+http://www.dothaneagle.com/
+^ 451
+http://www.douglasdispatch.com/
+^ 451
+http://www.drugoe.us/
+^ requestException
+http://www.dublinnews.com/
+^ 403
+http://www.dundeemessenger.co.uk/
+^ 406
+http://www.dutraspaper.com/
+^ requestException
+http://www.dziennikbaltycki.pl/
+^ 403
+http://www.dzienniklodzki.pl/
+^ 403
+http://www.dziennikzachodni.pl/
+^ 403
+http://www.eacourier.com/
+^ 451
+http://www.echobeirut.com/
+^ requestException
+http://www.edennewspaper.net/
+^ 406
+http://www.eduwatchpak.org/
+^ requestException
+http://www.egcitizen.com/
+^ 451
+http://www.einform.com.ua/
+^ 403
+http://www.einnews.com/china/
+^ requestException
+http://www.elbmarschpost.de/
+http://www.eldimoni.com/
+^ 403
+http://www.elkosmos.gr/
+^ requestException
+http://www.elliniko-fenomeno.gr/
+^ 403
+http://www.elminieh.com/
+^ requestException
+http://www.elperiodico.com/
+^ 403
+http://www.elshamal.com/
+^ requestException
+http://www.elshark.com/
+^ 403
+http://www.elvigia.com/
+^ requestException
+http://www.emalwa.com/
+^ 406
+http://www.e-news.com.ua/
+^ requestException
+http://www.enewscourier.com/
+^ 451
+http://www.eprisenow.com/
+^ 451
+http://www.ettelaat.com/
+^ 403
+http://www.eufaulatribune.com/
+^ 451
+http://www.euroweeklynews.com/
+^ 403
+http://www.explorernews.com/
+^ 451
+http://www.express.gr/
+^ requestException
+http://www.express-k.kz/
+^ requestException
+http://www.expressnews7.com/
+^ requestException
+http://www.expressodasilhas.cv/
+http://www.fardanews.com/
+^ 404
+http://www.farheekhtegan.ir/
+http://www.fhtimes.com/
+^ 451
+http://www.filipinoexpress.com/
+http://www.financialexpress.com/
+^ 403
+http://www.finansavisen.no/
+http://www.finland.de/landesnachrichten/
+http://www.folkebladet.dk/
+^ 406
+http://www.folsomtoday.com/
+^ 403
+http://www.fosenavisa.no/
+^ 503
+http://www.fotospor.com/
+^ 503
+http://www.fqdupdates.com/
+^ requestException
+http://www.frankfurter-rundschau.de/
+^ requestException
+http://www.freehandnews.com/
+^ 406
+http://www.freeweekly.com/
+^ 403
+http://www.fresnobee.com/
+^ requestException
+http://www.friday.lk/
+^ requestException
+http://www.frontiersman.com/
+^ 451
+http://www.fuerteventuranews.com/
+http://www.fuertextra.com/
+^ requestException
+http://www.fulbarianews24.com/
+^ 403
+http://www.future-news.tv/
+^ requestException
+http://www.gabonews.com/
+^ 406
+http://www.galtheraldonline.com/
+^ 451
+http://www.ganz-muenchen.de/
+http://www.gazetadecluj.ro/
+^ 503
+http://www.gazetalubuska.pl/
+^ 403
+http://www.gazetatema.net/
+^ 401
+http://www.gazeteoku.net/
+^ 406
+http://www.glasistre.hr/
+^ requestException
+http://www.gmw.cn/
+^ requestException
+http://www.golwg.com/
+^ 403
+http://www.gonokantho.com/
+^ 406
+http://www.goteborgsfria.se/
+^ requestException
+http://www.gov.karelia.ru/press-office/
+^ requestException
+http://www.grannar.no/
+^ 403
+http://www.greekherald.com/
+^ 403
+http://www.gt-tidning.se/
+^ requestException
+http://www.guardonline.com/
+^ 451
+http://www.gurtong.net/
+^ 503
+http://www.gzt.ru/
+http://www.habiganj-samachar.com/
+^ 412
+http://www.halmstadtidning.nu/
+^ requestException
+http://www.hamdardweekly.com/
+^ 404
+http://www.hamzetwasselnews.com/
+^ requestException
+http://www.hankasalmensanomat.net/
+^ requestException
+http://www.han-online.de/
+http://www.harakat.net/
+http://www.harianterbit.com/
+^ 500
+http://www.hartselleenquirer.com/
+^ 403
+http://www.havasunews.com/
+^ 451
+http://www.haveeru.com.mv/
+^ requestException
+http://www.hawker.com.bd/
+^ 406
+http://www.hemetnews.com/
+http://www.henrycountytimes.com/
+^ 406
+http://www.hesperiastar.com/
+^ requestException
+http://www.hespress.com/
+^ 403
+http://www.hibapress.com/
+http://www.hindustanlokshakti.com/
+^ requestException
+http://www.hindustantimes.com/
+^ 401
+http://www.hkcd.com.hk/
+^ requestException
+http://www.hojemacau.com/
+http://www.homernews.com/
+^ 403
+http://www.homertribune.com/
+^ 406
+http://www.hongkongherald.com/
+^ 403
+http://www.hopestar.com/
+^ requestException
+http://www.hoy.es/
+^ 403
+http://www.hsm.com.cn/
+^ requestException
+http://www.hsvvoice.com/
+^ requestException
+http://www.i-eidisi.com/
+http://www.igazmondo.hu/
+http://www.independent.co.ug/
+^ 403
+http://www.indiagazette.com/
+^ 403
+http://www.indopos.co.id/
+^ requestException
+http://www.infoest.ro/
+http://www.inprofiledaily.com/
+^ requestException
+http://www.insideindonesia.org/
+^ 403
+http://www.intimes.com.my/
+^ 403
+http://www.investors.com/
+^ 403
+http://www.ionigeria.com/
+^ 403
+http://www.iq4news.com/
+^ requestException
+http://www.iranherald.com/
+^ 403
+http://www.iranian.com/
+^ requestException
+http://www.iraqsun.com/
+^ 403
+http://www.irna.com/en/
+^ requestException
+http://www.irudina.lk/
+^ requestException
+http://www.ismatimes.com/
+^ 406
+http://www.jagruktimes.co.in/
+^ requestException
+http://www.jaihinddaily.com/
+^ 406
+http://www.jamawarnews.com/
+^ 500
+http://www.janadesh.in/
+^ 406
+http://www.janadhipathi.com/
+^ requestException
+http://www.janatarsangbad.com/
+^ 406
+http://www.jansatta.com/
+^ 403
+http://www.jazbalink.com/
+http://www.jewishaz.com/
+^ 451
+http://www.jhelumgeo.com/
+^ 406
+http://www.jnw.lk/
+^ requestException
+http://www.jonesborosun.com/
+^ 451
+http://www.jornal1x2.pt/
+^ 410
+http://www.jornaldapraia.com/
+^ 403
+http://www.jornalinside.com/
+^ 403
+http://www.juneauempire.com/
+^ 403
+http://www.jurnalul.ro/
+http://www.kabayanweekly.com/
+^ requestException
+http://www.kalami.net/
+^ 406
+http://www.kalkiweekly.com/
+^ requestException
+http://www.kardasi.gr/
+^ 406
+http://www.kashmirlinklondon.com/
+^ appendException!
+http://www.kashmirwatch.com/
+^ 406
+http://www.kauppalehti.fi/
+^ 403
+http://www.kcna.co.jp/
+^ requestException
+http://www.kentucky.com/
+^ requestException
+http://www.ketchikandailynews.com/
+^ 451
+http://www.khabrokidunia.com/
+^ requestException
+http://www.khan.co.kr/
+^ 403
+http://www.khb.ru/
+http://www.khobar24.com/
+^ requestException
+http://www.khojtalashonline.com/
+^ 404
+http://www.killarneyadvertiser.ie/
+^ 403
+http://www.kirikas.com.gr/
+^ requestException
+http://www.kkeml.gr/
+http://www.kodiakdailymirror.com/
+^ 451
+http://www.ko-go.gr/
+^ 406
+http://www.komalah.org/
+^ 403
+http://www.konstantinoupolis.net/
+^ requestException
+http://www.koshurakhbar.net/
+^ 404
+http://www.kotlinews.com/
+^ requestException
+http://www.kte.gr/
+^ requestException
+http://www.ktvsl.com/
+^ 403
+http://www.kuenselonline.com/
+^ 403
+http://www.kurdishglobe.net/
+^ requestException
+http://www.kurdistanpost.com/
+^ 503
+http://www.kurierlubelski.pl/
+^ 403
+http://www.kuwaittimes.net/
+http://www.kvsun.com/
+^ requestException
+http://www.kwongwah.com.my/
+^ 403
+http://www.kyrgyztuusu.kg/
+^ 403
+http://www.lacalledecordoba.com/
+^ requestException
+http://www.lacanadaonline.com/
+^ requestException
+http://www.la-croix.com/
+http://www.ladowntownnews.com/
+^ 451
+http://www.lajme.gen.al/
+http://www.lakbima.lk/
+^ requestException
+http://www.lakbimanews.lk/
+^ requestException
+http://www.lamaane.net/
+^ 403
+http://www.lanation.dj/
+^ requestException
+http://www.languedocliving.com/
+^ 404
+http://www.lankadeepa.lk/
+^ 403
+http://www.lankamuslims.com/
+^ 404
+http://www.lankapolity.com/
+^ requestException
+http://www.lankastandard.com/
+^ 406
+http://www.laprensacolombiana.com/
+^ 406
+http://www.laprensadelosangeles.com/
+http://www.laprensanwa.com/
+^ 403
+http://www.lapresse.tn/
+^ 403
+http://www.larawbar.com/
+http://www.larepublique.com/
+^ requestException
+http://www.larioja.com/
+^ 403
+http://www.larissaonline.gr/
+^ requestException
+http://www.lasprovincias.es/
+^ 403
+http://www.latimes.com/
+^ 403
+http://www.laverdad.es/
+^ 403
+http://www.laweekly.com/
+^ 403
+http://www.lbcgroup.tv/
+^ 403
+http://www.lbt.lk/
+^ requestException
+http://www.lebaneseamericannews.com/
+^ requestException
+http://www.lebaneserights.org/
+^ requestException
+http://www.lebanonegate.com/
+^ requestException
+http://www.lebjournal.com/
+^ 503
+http://www.lebscoop.com/
+http://www.lecanardenchaine.fr/
+^ requestException
+http://www.lefigaro.fr/
+http://www.legioner.kulichki.com/
+http://www.lejournal-hebdo.com/
+^ requestException
+http://www.lephalaleexpress.co.za/
+^ requestException
+http://www.lequotidien.sn/
+^ 403
+http://www.letemps.com.tn/
+^ requestException
+http://www.lexpress.ch/
+^ requestException
+http://www.lidovenoviny.cz/
+http://www.limpartial.ch/
+^ requestException
+http://www.littlespeck.com/
+^ requestException
+http://www.liveaapnews.com/
+^ requestException
+http://www.livearad.ro/
+^ requestException
+http://www.livehindustan.com/
+^ 403
+http://www.lobservateur.sn/
+^ requestException
+http://www.local.fo/
+^ 406
+http://www.localnewspaper.in/
+^ 406
+http://www.localpresshk.com/
+^ 403
+http://www.lodzpost.com/
+^ requestException
+http://www.lofotposten.no/
+^ requestException
+http://www.lofot-tidende.no/
+^ requestException
+http://www.lokal-anzeiger-verlag.de/
+^ 403
+http://www.loklokantor.com/
+^ requestException
+http://www.lokmanthan.com/
+^ 406
+http://www.lompocrecord.com/
+^ 451
+http://www.londonmercury.com/
+^ 403
+http://www.lorient-lejour.com.lb/
+http://www.losaltosonline.com/
+^ 451
+http://www.losangelesherald.com/
+^ 403
+http://www.losbanosenterprise.com/
+^ requestException
+http://www.lpravda.com/
+^ requestException
+http://www.lrsuntimes.com/
+^ requestException
+http://www.lusailnews.qa/
+^ 403
+http://www.lusotimes.co.uk/
+^ 403
+http://www.madisonpike.com/
+^ requestException
+http://www.magnoliareporter.com/
+^ 451
+http://www.mahanews.gov.in/
+^ 500
+http://www.mahasib.com.pk/
+^ 406
+http://www.maiahoje.pt/
+^ requestException
+http://www.main-rheiner.de/
+^ requestException
+http://www.malaysiasun.com/
+^ 403
+http://www.malibutimes.com/
+^ 451
+http://www.malvern-online.com/
+^ 451
+http://www.manar.com/
+^ 406
+http://www.manipurchronicle.net/
+^ 406
+http://www.mansprichtdeutsch.cz/
+^ 530
+http://www.marathwadaneta.com/
+^ 406
+http://www.matabangsa.com/
+^ 403
+http://www.mb.com.ph/
+^ 403
+http://www.mbdinnews.com/
+^ 520
+http://www.mediadarbar.tv/
+^ requestException
+http://www.medianewsline.com/
+^ requestException
+http://www.meindresden.info/
+^ 403
+http://www.menastar.com/
+^ 451
+http://www.mercedsun-star.com/
+^ requestException
+http://www.merkpunkt.com/
+^ requestException
+http://www.mesagerul.ro/
+http://www.messenger.com.ge/
+^ requestException
+http://www.minima-hania.gr/
+^ requestException
+http://www.mirror.co.uk/
+^ 403
+http://www.modbee.com/
+^ requestException
+http://www.moi.gov.mm/
+^ 503
+http://www.monde-diplomatique.fr/
+http://www.motinews.info/
+^ 403
+http://www.mountainecho.com/
+^ 403
+http://www.mountainnews.net/
+^ 406
+http://www.mtdemocrat.com/
+^ 403
+http://www.munhwa.co.kr/
+http://www.munsifdaily.com/
+^ 503
+http://www.muromin.co.jp/
+^ requestException
+http://www.muslimdiaspora.org/
+^ requestException
+http://www.muzaffarabadnews.com/
+^ 406
+http://www.mydailynewswatchng.com/
+^ 406
+http://www.nadir.org/nadir/periodika/gegendruck/
+http://www.nanyang.com/
+^ requestException
+http://www.narodne.com/
+^ 406
+http://www.nasha.lv/
+^ requestException
+http://www.nataly.com.ua/
+^ requestException
+http://www.nation.co.ke/
+^ 403
+http://www.nawa-e-islam.com/
+^ 406
+http://www.nctimes.com/
+^ 403
+http://www.negroschronicle.com/
+^ 406
+http://www.nevskoevremya.spb.ru/
+^ 403
+http://www.newindianexpress.com/
+^ 403
+http://www.newmail-ng.com/
+^ requestException
+http://www.newnigeria.com/
+^ requestException
+http://www.newportindependent.com/
+^ 451
+http://www.news69bd.com/
+http://www.news.am/
+^ 520
+http://www.newsbna.com/
+^ 403
+http://www.news-bucovina.ro/
+^ requestException
+http://www.newscamp24.com/
+^ requestException
+http://www.newseveryday.co.za/
+^ requestException
+http://www.newsminute.com/
+^ 406
+http://www.newsofrwanda.com/
+^ requestException
+http://www.newspabna.com/
+^ requestException
+http://www.newspress.com/
+^ 403
+http://www.newstimeafrica.com/archives/category/east-africa/tanzania-east-africa-2
+^ 404
+http://www.newstimeafrica.com/archives/category/west-africa/nigeria-west-africa-2
+^ 404
+http://www.nitharsanam.com/
+^ appendException!
+http://www.njeffersonnews.com/
+^ 451
+http://www.nogalesinternational.com/
+^ 451
+http://www.nonstopnewsnowbc.com/
+^ requestException
+http://www.northcyprusfreepress.com/
+^ 403
+http://www.northernstandard.ie/
+^ 403
+http://www.northkoreatimes.com/
+^ 403
+http://www.northwestgeorgianews.com/cherokee_county/
+^ 451
+http://www.norwaytoday.info/
+^ 403
+http://www.notunkhobor.com/
+^ 403
+http://www.novojornal.co.ao/
+^ requestException
+http://www.nowlebanon.com/
+^ 403
+http://www.nowosci.com.pl/
+^ 403
+http://www.nowshera.com/
+^ requestException
+http://www.nrhz.de/
+http://www.nt.am/
+^ requestException
+http://www.nwanews.com/adg/
+^ 404
+http://www.nwanews.com/dailyrecord/
+^ 404
+http://www.nwanews.com/hometown/
+^ 404
+http://www.nwanews.com/times/
+^ 404
+http://www.nwaonline.net/
+^ 404
+http://www.nytfradanmark.dk/
+^ 502
+http://www.oanow.com/
+^ 451
+http://www.observer.org.sz/
+^ 403
+http://www.oclarim.com.mo/
+^ requestException
+http://www.ocweekly.com/
+^ 403
+http://www.odisha360.com/
+^ 403
+http://www.oe-journal.at/
+http://www.oindependentetupa.com.br/
+^ 406
+http://www.oita-press.co.jp/
+^ 403
+http://www.onabil.net/
+^ 406
+http://www.onelocalnews.com/prescottherald/
+^ 403
+http://www.onlinenewspapers.com/site/16089/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/16196/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/17085/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/17314/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/1918/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/212/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/4000/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/8088/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/8403/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/8404/index.htm
+^ 404
+http://www.onlinenewspapers.com/site/8455/index.htm
+^ 404
+http://www.onlinenewspapers.com/www.dn.kz/
+^ 404
+http://www.onlycy.news/
+^ requestException
+http://www.onlykashmir.in/
+^ 406
+http://www.onnews24.com/
+^ requestException
+http://www.optovik.khv.ru/
+http://www.orangebeach.ws/
+^ 403
+http://www.orientaldaily.com.hk/
+http://www.orissaindia.com/
+^ requestException
+http://www.otemplario.pt/
+^ 410
+http://www.ouest-france.fr/
+^ 403
+http://www.oujdaportail.net/
+^ 503
+http://www.oulunetelainen.fi/
+^ 503
+http://www.ov-online.de/
+^ requestException
+http://www.paarlpost.com/
+^ requestException
+http://www.pakistanpost.pk/
+^ requestException
+http://www.pakistantelegraph.com/
+^ 403
+http://www.paknews.es/
+http://www.palisadespost.com/
+^ 403
+http://www.panairenvestnik.com/
+^ 403
+http://www.panchjanya.com/
+http://www.paneveziobalsas.lt/
+^ requestException
+http://www.panoramaaz.com/
+^ requestException
+http://www.paragoulddailypress.com/
+^ 451
+http://www.parichaytimes.in/
+^ requestException
+http://www.parisguardian.com/
+^ 403
+http://www.paysonroundup.com/
+^ 451
+http://www.pekingpress.com/
+^ 403
+http://www.peninsulaclarion.com/
+^ 403
+http://www.personal-plus.net/
+http://www.philippinetimes.com/
+^ 403
+http://www.phnompenhpost.com/
+^ 403
+http://www.phoenixherald.com/
+^ 403
+http://www.picayune-times.com/
+^ requestException
+http://www.pierikoiantilaloi.gr/
+^ requestException
+http://www.pinalcentral.com/casa_grande_dispatch/
+^ 451
+http://www.pinalcentral.com/coolidge_examiner/
+^ 451
+http://www.pinalcentral.com/eloy_enterprise/
+^ 451
+http://www.pinalcentral.com/florence_reminder_blade_tribune/
+^ 451
+http://www.pinalcentral.com/maricopa_monitor/
+^ 451
+http://www.pinalcentral.com/san_tan_valley_sentinel/
+^ 451
+http://www.pinalcentral.com/trivalley_dispatch/
+^ 451
+http://www.pindipost.pk/
+^ 406
+http://www.pixidanews.gr/
+^ requestException
+http://www.pnchannel.com/
+^ requestException
+http://www.pnp.ru/
+http://www.pomorska.pl/
+^ 403
+http://www.poriborton.com/
+^ appendException!
+http://www.poskotanews.com/
+^ requestException
+http://www.praguemonitor.com/
+^ 500
+http://www.praguemorning.cz/
+^ 403
+http://www.praguepost.com/
+^ 403
+http://www.pravda.ru/
+http://www.pravdasevera.ru/
+http://www.press-time.gr/
+^ 500
+http://www.primenewsbd24.com/
+^ 406
+http://www.prin.gr/
+^ 406
+http://www.proini.eu/
+^ requestException
+http://www.prothomkhabor.com/
+^ 406
+http://www.publicitate-libertatea.ro/
+http://www.publicnewsindia.com/
+^ requestException
+http://www.pukarnews.com/
+^ requestException
+http://www.puk.org/
+^ 406
+http://www.punjabnewsline.in/
+^ 406
+http://www.puntlandpost.com/
+^ 406
+http://www.puoreports.com/
+^ requestException
+http://www.pyxida.gr/
+http://www.qaumiakhbar.com/
+^ requestException
+http://www.qorahay.com/
+^ requestException
+http://www.quicknews-africa.net/
+^ requestException
+http://www.quotidienmutations.net/
+^ 403
+http://www.raiamwema.co.tz/
+^ requestException
+http://www.rajasthanpatrika.com/
+^ requestException
+http://www.ramonasentinel.com/
+^ 403
+http://www.randomlengthsnews.com/
+^ 403
+http://www.raporto.gr/
+^ requestException
+http://www.rashtriyaujala.com/
+http://www.rebelnews.ie/
+^ 410
+http://www.redrocknews.com/
+^ 406
+http://www.regionaltimes.com/
+^ 406
+http://www.regionavisa.no/
+http://www.risingkashmir.com/
+^ 403
+http://www.rivervalleyleader.com/
+^ 404
+http://www.rnn.dk/
+^ 406
+http://www.rocklintoday.com/
+^ 403
+http://www.rodiaki.gr/
+^ 403
+http://www.rotefahne.info/
+http://www.roznamadharti.com/
+^ 406
+http://www.rtnn.net/
+^ 406
+http://www.russiaherald.com/
+^ 403
+http://www.rv.ru/
+^ 403
+http://www.sacbee.com/
+^ requestException
+http://www.sacramentosun.com/
+^ 403
+http://www.sadaechanar.com/
+^ requestException
+http://www.saint.fm/news/
+^ 403
+http://www.samacharpati.com/
+^ requestException
+http://www.sama.pk/
+^ 406
+http://www.samayikprasanga.in/
+^ 406
+http://www.sandiegosun.com/
+^ 403
+http://www.sandmountainreporter.com/
+^ 451
+http://www.sanfranciscostar.com/
+^ 403
+http://www.sanjosesun.com/
+^ 403
+http://www.sanluisobispo.com/
+^ requestException
+http://www.sansani.com/
+^ requestException
+http://www.satkhiranews.com/
+^ 406
+http://www.satkhirarkhabor.com/
+^ requestException
+http://www.sawtaljabal.com/
+^ 406
+http://www.sedona.biz/
+^ 406
+http://www.seehua.com/
+^ 403
+http://www.seldoviagazette.com/
+^ 500
+http://www.sengkathir.com/
+^ requestException
+http://www.seoul.co.kr/
+^ requestException
+http://www.serqqapisi.az/
+^ requestException
+http://www.sfexaminer.com/
+^ 403
+http://www.sfweekly.com/
+^ 403
+http://www.sggp.org.vn/
+http://www.sgzt.com/
+^ requestException
+http://www.shahrara.com/
+^ requestException
+http://www.shangbao.com.ph/
+http://www.shanghaisun.com/
+^ 403
+http://www.sharabanglanews.com/
+^ requestException
+http://www.sheershamedia.com/
+^ requestException
+http://www.sherpurnews24.com/
+^ 403
+http://www.sherwoodvoice.com/
+^ requestException
+http://www.shiacenter.org/
+^ requestException
+http://www.sierrastar.com/
+^ requestException
+http://www.siftingsherald.com/
+^ requestException
+http://www.simivalleyacorn.com/
+^ requestException
+http://www.singaporestar.com/
+^ 403
+http://www.singpao.com/
+^ requestException
+http://www.skessuhorn.is/
+^ 403
+http://www.smn.gr/
+http://www.soanmeeraas.in/
+^ 406
+http://www.sonalisangbad.com/
+^ 406
+http://www.southeastsun.com/fortrucker/
+^ 451
+http://www.southerntorch.com/
+^ requestException
+http://www.southsudannation.com/
+^ 404
+http://www.speakinoutweeklynews.com/
+^ 403
+http://www.sportinmalta.com/
+http://www.srilankanpatriot.lk/
+^ requestException
+http://www.srilankasource.com/
+^ 403
+http://www.srilankatoday.com/
+^ 406
+http://www.stadtzeitung.luebeck.de/
+http://www.standardtimespress.org/
+^ requestException
+http://www.standartnews.com/
+http://www.stargazete.com.tr/
+^ requestException
+http://www.starkibris.net/
+^ requestException
+http://www.statepress.com/
+^ requestException
+http://www.stateviews.pk/
+^ 404
+http://www.stranraer-freepress.co.uk/
+http://www.sudafax.com/
+^ 403
+http://www.sumter-news.com/
+^ 403
+http://www.sundaytimes.lk/
+^ 403
+http://www.sunnhordland.no/
+^ requestException
+http://www.sunnmoringen.no/
+^ requestException
+http://www.surmatimes.com/
+^ 403
+http://www.svherald.com/
+^ 451
+http://www.swtimes.com/
+^ requestException
+http://www.sydin.fi/
+^ requestException
+http://www.sylhetview24.net/
+^ requestException
+http://www.syvnews.com/
+^ 451
+http://www.taand.com/
+^ 403
+http://www.tahawolat.com/
+^ requestException
+http://www.taiwansun.com/
+^ 403
+http://www.taiwantoday.tw/
+^ 403
+http://www.tamilnaatham.com/
+^ requestException
+http://www.taubertalnews.de/
+^ requestException
+http://www.taxnewsbd.com/
+^ requestException
+http://www.tehqiqnama.com/
+^ requestException
+http://www.tele7.nsk.su/
+http://www.telegraph.lk/
+^ requestException
+http://www.tervareitti.fi/
+^ 403
+http://www.thealpinesun.com/
+^ 403
+http://www.thearabianpost.com/
+^ 403
+http://www.thebeijingnews.com/
+^ requestException
+http://www.thebottomline.lk/
+^ requestException
+http://www.thebrusselstimes.com/
+^ 403
+http://www.thecapitalpost.in/
+^ requestException
+http://www.thecolombotimes.com/
+^ 404
+http://www.thecrazeventure.in/
+^ requestException
+http://www.thedailycitizen.com/
+^ 451
+http://www.thedaily.cz/
+http://www.thedailysentinel.com/
+^ 451
+http://www.thedaily.sk/
+^ 406
+http://www.thediplomat.ro/
+^ 403
+http://www.thedubrovniktimes.com/
+^ 403
+http://www.thefeather.com/
+^ requestException
+http://www.thefridaytimes.com/
+^ 406
+http://www.thegoodmorning.net/
+^ 406
+http://www.thegurdontimes.com/
+^ requestException
+http://www.theirishworld.com/
+^ requestException
+http://www.thejakartaglobe.com/
+^ 503
+http://www.thejournal.co.uk/;
+^ 410
+http://www.thelocal.ch/
+^ 403
+http://www.thelocal.es/
+^ 403
+http://www.thelocal.se/
+^ 403
+http://www.themadeiratimes.com/
+^ 404
+http://www.themalaysianinsider.com/
+^ requestException
+http://www.themilpitaspost.com/
+^ 503
+http://www.themoroccantimes.com/
+^ 403
+http://www.thenee.com/
+^ 403
+http://www.thenewtimespress.com/
+^ 406
+http://www.thepakistaninewspaper.com/
+^ 406
+http://www.thepaknation.com/
+^ requestException
+http://www.thepashtuntimes.com/
+^ requestException
+http://www.thepeninsulaqatar.com/%20[In%20English]
+^ 404
+http://www.therandolphleader.com/
+^ 451
+http://www.thesabha.org/
+^ 406
+http://www.thesamaja.com/
+^ requestException
+http://www.the-signal.com/
+^ 403
+http://www.thesindhtimes.com/
+^ requestException
+http://www.thesportsmirror.com/
+^ 406
+http://www.thesuntimes.com/
+^ 451
+http://www.theuknews.com/
+^ 403
+http://www.thevoicemyanmar.com/
+^ 403
+http://www.theweeklypost.com/
+^ 451
+http://www.thewetumpkaherald.com/
+^ 451
+http://www.theworldfolio.com/angola/
+^ 500
+http://www.theworldfolio.com/botswana/
+^ 500
+http://www.theworldfolio.com/cameroon/
+^ 500
+http://www.theworldfolio.com/cape-verde/
+^ 500
+http://www.theworldfolio.com/congo/
+^ 500
+http://www.theworldfolio.com/equatorial-guinea
+^ 500
+http://www.theworldfolio.com/ethiopia
+^ 500
+http://www.theworldfolio.com/gabon/
+^ 500
+http://www.theworldfolio.com/ivory-coast/
+^ 500
+http://www.theworldfolio.com/kenya/
+^ 500
+http://www.theworldfolio.com/malawi/
+^ 500
+http://www.theworldfolio.com/morocco/
+^ 500
+http://www.theworldfolio.com/mozambique/
+^ 500
+http://www.theworldfolio.com/nigeria
+^ 500
+http://www.theworldfolio.com/rwanda/
+^ 500
+http://www.theworldfolio.com/south-africa
+^ 500
+http://www.theworldfolio.com/sudan/
+^ 500
+http://www.theworldfolio.com/tanzania/
+^ 500
+http://www.theworldfolio.com/tunisia/
+^ 500
+http://www.theworldfolio.com/uganda/
+^ 500
+http://www.theworldfolio.com/zambia/
+^ 500
+http://www.theyamtimes.com/
+^ 503
+http://www.thinakkural.lk/
+^ 403
+http://www.thisischorley.co.uk/
+^ requestException
+http://www.thisissierraleone.com/
+^ 406
+http://www.thrakikigi.gr/
+^ 403
+http://www.tico-news.com/
+^ requestException
+http://www.timesdaily.com/
+^ 451
+http://www.times-journal.com/
+^ 451
+http://www.timesofearth.com/category/noticias-en-espanol.html
+^ 404
+http://www.timestoday24.com/
+^ requestException
+http://www.toacorn.com/
+^ requestException
+http://www.tribunadamadeira.pt/
+^ 403
+http://www.tribune.net.ph/
+^ 403
+http://www.tribuneonlineng.com/
+^ requestException
+http://www.trinityjournal.com/
+^ 451
+http://www.triplicate.com/
+^ 451
+http://www.tsa-algerie.com/
+^ requestException
+http://www.tucsonpost.com/
+^ 403
+http://www.turks.us/
+^ 500
+http://www.tuscaloosatimes.com/
+^ 403
+http://www.tygodnikzamojski.pl/
+^ 403
+http://www.ug.ru/
+http://www.ujaalanews.com/
+^ requestException
+http://www.ukrainebusiness.com.ua/
+^ 500
+http://www.ulinet.org/
+^ requestException
+http://www.uniondemocrat.com/
+^ 451
+http://www.universaltamil.com/
+^ 406
+http://www.un-mongolia.mn/
+^ requestException
+http://www.urdupower.com/
+^ 406
+http://www.utenos-diena.lt/
+http://www.uthayan.com/
+^ 406
+http://www.valleycenter.com/
+^ requestException
+http://www.veintepies.com/
+http://www.vieiros.com/
+http://www.vietnamtribune.com/
+^ 403
+http://www.villagenews.com/
+^ 503
+http://www.vimasuma.com/
+^ 403
+http://www.visaonews.com/
+^ 406
+http://www.visionhispanausa.com/
+^ 406
+http://www.vivalanka.com/
+^ 503
+http://www.voiceofasianews.com/
+^ 500
+http://www.voiceofsikkim.com/
+^ 406
+http://www.voiceoftheozarks.net/
+^ 406
+http://www.voicesnewspaper.com/
+^ 406
+http://www.vonk.org/
+^ 403
+http://www.vrastan.ge/
+^ 403
+http://www.w3.org/TR/html4/loose.dtd
+^ requestException
+http://www.waaskrant.be/
+^ 403
+http://www.wadikiawaz.in/
+^ 406
+http://www.waldnet.nl/
+http://www.walf.sn/
+^ requestException
+http://www.waterford-news.com/
+^ 523
+http://www.wbj.pl/
+^ 502
+http://www.webwombat.com.au/Week_Of.js
+^ requestException
+http://www.weekendpost.co.bw/
+^ 403
+http://www.weeklysonarbangla.net/
+^ 406
+http://www.weesper.nl/
+^ requestException
+http://www.westernmorningnews.co.uk/
+^ 503
+http://www.western-people.com/
+^ 523
+http://www.westmeathtopic.com/
+^ requestException
+http://www.westvalleyview.com/
+^ 451
+http://www.whitehalljournal.com/
+^ requestException
+http://www.whnt.com/
+^ 451
+http://www.wighsnews.se/
+^ 406
+http://www.willcoxrangenews.com/
+^ 451
+http://www.wkrg.com/baldwin-county
+^ 451
+http://www.wlz-fz.de/
+^ requestException
+http://www.wmicentral.com/
+^ 451
+http://www.wochenpost.de/
+http://www.wranglernews.com/
+^ 403
+http://www.wycombetoday.com/
+^ requestException
+http://www.xanthinews.gr/
+^ 403
+http://www.yemenonline.info/
+^ 406
+http://www.yndk.com/
+^ requestException
+http://www.y.net.ye/shoura/
+^ requestException
+http://www.yourmiddleeast.com/
+^ requestException
+http://www.yugsambaddarpan.com/
+^ requestException
+http://www.zahadyzivota.cz/
+http://www.zeenews.com/
+^ 403
+http://www.ziarulargesul.ro/&
+^ 404
+http://www.ziarullumina.ro/
