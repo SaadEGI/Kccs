@@ -1,3 +1,11 @@
+# This script filters websites for various reasons, including:
+# 1. Website is not english
+# 2. Server is too slow (takes more than 10 seconds to reply)
+# 3. Server is down
+
+# This script does not mutate the original list! instead it saves the result in another file by 
+# the name of 'exclusivelyEnglishWebsitesList
+
 from langdetect import detect
 import requests
 
