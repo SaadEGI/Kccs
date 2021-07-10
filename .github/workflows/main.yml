@@ -25,3 +25,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH_NAME: 'main' 
+# TODO: speed process by avoiding cloning and installing each time the action is run
+# TODO: instead use the library in an action script
+
