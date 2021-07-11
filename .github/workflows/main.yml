@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    # - name: prepare
-      # run: |
-      #  git clone https://github.com/tasos-py/Search-Engines-Scraper;
+    - name: prepare
+      run: |
+       cd Crawlers/Newspapers/Search_Engines_Scraper
+       sudo python setup.py install;
       #  cd Search-Engines-Scraper;
-      #  sudo python setup.py install;
       # run: |
     - name: Scrape articles 
       # run: |
@@ -21,6 +21,7 @@ jobs:
       #  python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
       run: |
           cd Crawlers/Newspapers;
+
           sudo python3 Action.py 1;
     # - name: clean
     #   run: |
