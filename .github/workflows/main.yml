@@ -23,7 +23,7 @@ jobs:
       run: |
           cd Crawlers/Newspapers;
 
-          sudo python3 Action.py 1;
+          sudo python3 Action.py 1.0;
     # - name: clean
     #   run: |
     #    sudo mv /home/runner/work/Kccs/Kccs/Search-Engines-Scraper/search_engines/search_results/output.json /home/runner/work/Kccs/Kccs/output.json;
