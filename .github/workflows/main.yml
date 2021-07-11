@@ -9,18 +9,22 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: prepare
+      # run: |
+      #  git clone https://github.com/tasos-py/Search-Engines-Scraper;
+      #  cd Search-Engines-Scraper;
+      #  sudo python setup.py install;
       run: |
-       git clone https://github.com/tasos-py/Search-Engines-Scraper;
-       cd Search-Engines-Scraper;
-       sudo python setup.py install;
+          cd Crawlers/Newspapers;
     - name: Scrape articles 
+      # run: |
+      #  cd Search-Engines-Scraper;
+      #  python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
       run: |
-       cd Search-Engines-Scraper;
-       python search_engines_cli.py -e google -q "%22corona%22 site:nytimes.com &tbs=qdr:w" -o json,print -p 2
-    - name: clean
-      run: |
-       sudo mv /home/runner/work/Kccs/Kccs/Search-Engines-Scraper/search_engines/search_results/output.json /home/runner/work/Kccs/Kccs/output.json;
-       sudo rm -r /home/runner/work/Kccs/Kccs/Search-Engines-Scraper;
+        sudo python3 Action.py 1;
+    # - name: clean
+    #   run: |
+    #    sudo mv /home/runner/work/Kccs/Kccs/Search-Engines-Scraper/search_engines/search_results/output.json /home/runner/work/Kccs/Kccs/output.json;
+    #    sudo rm -r /home/runner/work/Kccs/Kccs/Search-Engines-Scraper;
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

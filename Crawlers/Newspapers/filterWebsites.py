@@ -24,8 +24,8 @@ for website in websiteList:
         if request.status_code != 200:
             nonEnglishWebsitesList.append(website)
             nonEnglishWebsitesList.append('^ '+str(request.status_code))
-
             continue
+        
     except Exception as err:
         nonEnglishWebsitesList.append(website)
         nonEnglishWebsitesList.append('^ status_codeException!')
