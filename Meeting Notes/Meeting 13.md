@@ -1,5 +1,5 @@
 
-[Meeting X](Enter meeting video url here)           | dd.mm.yyyy
+[Meeting X](https://drive.google.com/file/d/15gnB2C92uEcGSCYWrJJYWQZWkCa6a11g/view?usp=sharing)           | dd.mm.yyyy
 ----------------------|-
 Protocol organizer    | -
 Present members       | Saad Bendou, Sufyan Dahalan, Mohamad Almortada
