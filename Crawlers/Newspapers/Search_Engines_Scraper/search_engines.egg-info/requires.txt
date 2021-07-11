@@ -1,2 +1,2 @@
-requests[socks]
 bs4
+requests[socks]
