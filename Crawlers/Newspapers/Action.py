@@ -17,7 +17,7 @@ brokenWebsites = []
 for website in websiteList:
     Links[website] = []
     try:
-        results = engine.search("%22 corona %22 site: " + website + " &tbs=qdr:m", pages=2)
+        results = engine.search("%22 corona %22 site:" + website + " &tbs=qdr:m", pages=2)
     except Exception as err:
         print(err) # add item to list of broken websites
         brokenWebsites.append(website)
