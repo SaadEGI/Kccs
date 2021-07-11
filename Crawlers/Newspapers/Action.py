@@ -40,5 +40,5 @@ with open(rf'GH-Action/{file_path + "_" + filename+"_Links.json"}', "w") as fp:
     json.dump(Links, fp, indent = 4)
 
 with open(rf'{file_path + "_" + filename+"_BrokenLinks.json"}', "w") as f: 
-    for website in exclusivelyEnglishWebsiteList: 
+    for website in brokenWebsites: 
         f.write("%s\n" % website)
