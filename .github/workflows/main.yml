@@ -13,6 +13,7 @@ jobs:
       run: |
        cd Crawlers/Newspapers/Search_Engines_Scraper
        sudo python setup.py install;
+       sudo pip3 install fake_useragent;
       #  cd Search-Engines-Scraper;
       # run: |
     - name: Scrape articles 
