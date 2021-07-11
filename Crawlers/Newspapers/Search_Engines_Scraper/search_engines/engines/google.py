@@ -1,7 +1,7 @@
 from ..engine import SearchEngine
 from ..config import PROXY, TIMEOUT, FAKE_USER_AGENT
 from ..utils import unquote_url
-from fake_useragent import UserAgent
+
 
 class Google(SearchEngine):
     '''Searches google.com'''
@@ -11,7 +11,7 @@ class Google(SearchEngine):
         self._delay = (2, 6)
         self._current_page = 1
         
-        self.set_headers({'User-Agent':UserAgent().random})
+        self.set_headers({'User-Agent':FAKE_USER_AGENT})
     
     def _selectors(self, element):
         '''Returns the appropriate CSS selector.'''

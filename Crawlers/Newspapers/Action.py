@@ -17,13 +17,13 @@ brokenWebsites = []
 for website in websiteList:
     Links[website] = []
     try:
-        results = engine.search("%22 corona %22 site: " + website + " &tbs=qdr:m")
+        results = engine.search("%22 corona %22 site: " + website + " &tbs=qdr:m", pages=2)
     except Exception as err:
         print(err) # add item to list of broken websites
         brokenWebsites.append(website)
         brokenWebsites.append("^ " + str(err))
-    # links = results.links()
     try:
+        print(results.links())
         Links[website] = results.links()
     except Exception as err:
         print(err) # add item to list of broken websites
@@ -35,10 +35,11 @@ for website in websiteList:
 
 
 
+if len(Links) > 0:
+    with open(rf'GH-Action/{file_path + "_" + filename+"_Links.json"}', "w") as fp:
+        json.dump(Links, fp, indent = 4)
 
-with open(rf'GH-Action/{file_path + "_" + filename+"_Links.json"}', "w") as fp:
-    json.dump(Links, fp, indent = 4)
-
-with open(rf'{file_path + "_" + filename+"_BrokenLinks.json"}', "w") as f: 
-    for website in brokenWebsites: 
-        f.write("%s\n" % website)
+if len(brokenWebsites) > 0:
+    with open(rf'{file_path + "_" + filename+"_BrokenLinks.json"}', "w") as f: 
+        for website in brokenWebsites: 
+            f.write("%s\n" % website)
