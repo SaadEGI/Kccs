@@ -2,7 +2,7 @@ from Search_Engines_Scraper.search_engines import Google
 import time
 import json
 import numpy as np
-
+import sys
 filename = f'{time.strftime("%Y%m%d-%H%M%S")}'
 
 file_path = sys.argv[1]
