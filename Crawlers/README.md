@@ -8,6 +8,7 @@ Optionaly, you cant specify which crawler you want to run. Currently you have th
 
 Finally, ```make clean``` deletes any and all crawled data. 
 
+### Check Twitter Readme for  more informations
 
 ---
 
