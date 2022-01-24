@@ -5,9 +5,9 @@ import csv
 import socket
 
 
-authentication = tweepy.OAuthHandler('ColqKqV1rfcpd1ytv9RMS37eO', 'otDk7hQGQebS1csNQ5K6aaEqRBHjatGNJmLWw4W31rumCK6ak7')
-authentication.set_access_token('1014769894276128769-U4Vl2WwuqivDYqImj7TgZYentFMNfJ',
-                                'lIXJ2do4p5W3sFmqokB2O8IYFr8o7kZjNh4l7IKxBK0kv')
+authentication = tweepy.OAuthHandler('', '')
+authentication.set_access_token('-',
+                                '')
 api = tweepy.API(authentication, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 
